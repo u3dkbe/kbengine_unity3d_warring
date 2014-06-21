@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: d127f723c8ac708478d0589911c25803
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: knife
+    100002: Bip01 R Finger2
+    100004: bow
+    100006: Bip01 Neck
+    100008: Bip01 Spine1
+    100010: Bip01 Spine
+    100012: Bip01 Pelvis
+    100014: Bone07
+    100016: Bone06
+    100018: thief-knives
+    100020: torch
+    100022: Bone05
+    100024: Bip01 R Toe0Nub
+    100026: Bip01 L Foot
+    100028: Bip01 L Calf
+    100030: Bone04
+    100032: Bone03
+    100034: Bip01 R Finger3
+    100036: Bone14
+    100038: Bone13
+    100040: Bip01 HeadNub
+    100042: Bip01 Head
+    100044: Bip01 R Finger1
+    100046: Bip01 R Finger0
+    100048: Bip01 R Hand
+    100050: Bip01 L Finger1
+    100052: Bip01 L Finger2
+    100054: Bip01 L Thigh
+    100056: Bone12
+    100058: Bip01 R Forearm
+    100060: Bone02
+    100062: thief-skirt
+    100064: thief-body
+    100066: thief-cloak
+    100068: Bone04(mirrored)
+    100070: Bone03(mirrored)
+    100072: Bone02(mirrored)
+    100074: Bone01(mirrored)
+    100076: Bone08(mirrored)
+    100078: Bone07(mirrored)
+    100080: Bone06(mirrored)
+    100082: Bone05(mirrored)
+    100084: Bip01 L Finger3
+    100086: Bone11
+    100088: Bone10
+    100090: Bip01 L Finger4
+    100092: Bone09
+    100094: Bip01 R Toe0
+    100096: Bip01 R Foot
+    100098: //RootNode
+    100100: sword
+    100102: Bone01
+    100104: Bone08
+    100106: Bip01 R Calf
+    100108: Bip01 R Thigh
+    100110: Bip01 R Finger4Nub
+    100112: Bip01 R Finger42
+    100114: Bip01 R Finger41
+    100116: Bip01 R Finger3Nub
+    100118: Bip01 R Finger32
+    100120: Bip01 R Finger31
+    100122: Bip01 R Finger2Nub
+    100124: Bip01 R Finger22
+    100126: Bip01 R Finger21
+    100128: Bip01 R Finger1Nub
+    100130: Bip01 R Finger12
+    100132: Bip01 R Finger11
+    100134: Bip01 R Finger0Nub
+    100136: Bip01 R Finger02
+    100138: Bip01 R Finger01
+    100140: Bip01 R UpperArm
+    100142: Bip01 R Clavicle
+    100144: Bip01 L Finger4Nub
+    100146: Bip01 L Finger42
+    100148: Bip01 L Finger41
+    100150: Bip01 L Finger3Nub
+    100152: Bip01 L Finger32
+    100154: Bip01 L Finger31
+    100156: Bip01 L Finger2Nub
+    100158: Bip01 L Finger22
+    100160: Bip01 L Finger21
+    100162: Bip01 L Finger1Nub
+    100164: Bip01 L Finger12
+    100166: Bip01 L Finger11
+    100168: Bip01 L Finger0Nub
+    100170: Bip01 L Finger02
+    100172: Bip01 L Finger01
+    100174: Bip01 L UpperArm
+    100176: Bip01 L Clavicle
+    100178: thief-hips-skirt
+    100180: Bip01 R Finger4
+    100182: Bip01 Footsteps
+    100184: Bip01
+    100186: thief-head
+    100188: Bip01 L Hand
+    100190: Bip01 L Forearm
+    100192: Bip01 L Finger0
+    100194: Bip01 L Toe0Nub
+    100196: Bip01 L Toe0
+    400000: knife
+    400002: Bip01 R Finger2
+    400004: bow
+    400006: Bip01 Neck
+    400008: Bip01 Spine1
+    400010: Bip01 Spine
+    400012: Bip01 Pelvis
+    400014: Bone07
+    400016: Bone06
+    400018: thief-knives
+    400020: torch
+    400022: Bone05
+    400024: Bip01 R Toe0Nub
+    400026: Bip01 L Foot
+    400028: Bip01 L Calf
+    400030: Bone04
+    400032: Bone03
+    400034: Bip01 R Finger3
+    400036: Bone14
+    400038: Bone13
+    400040: Bip01 HeadNub
+    400042: Bip01 Head
+    400044: Bip01 R Finger1
+    400046: Bip01 R Finger0
+    400048: Bip01 R Hand
+    400050: Bip01 L Finger1
+    400052: Bip01 L Finger2
+    400054: Bip01 L Thigh
+    400056: Bone12
+    400058: Bip01 R Forearm
+    400060: Bone02
+    400062: thief-skirt
+    400064: thief-body
+    400066: thief-cloak
+    400068: Bone04(mirrored)
+    400070: Bone03(mirrored)
+    400072: Bone02(mirrored)
+    400074: Bone01(mirrored)
+    400076: Bone08(mirrored)
+    400078: Bone07(mirrored)
+    400080: Bone06(mirrored)
+    400082: Bone05(mirrored)
+    400084: Bip01 L Finger3
+    400086: Bone11
+    400088: Bone10
+    400090: Bip01 L Finger4
+    400092: Bone09
+    400094: Bip01 R Toe0
+    400096: Bip01 R Foot
+    400098: //RootNode
+    400100: sword
+    400102: Bone01
+    400104: Bone08
+    400106: Bip01 R Calf
+    400108: Bip01 R Thigh
+    400110: Bip01 R Finger4Nub
+    400112: Bip01 R Finger42
+    400114: Bip01 R Finger41
+    400116: Bip01 R Finger3Nub
+    400118: Bip01 R Finger32
+    400120: Bip01 R Finger31
+    400122: Bip01 R Finger2Nub
+    400124: Bip01 R Finger22
+    400126: Bip01 R Finger21
+    400128: Bip01 R Finger1Nub
+    400130: Bip01 R Finger12
+    400132: Bip01 R Finger11
+    400134: Bip01 R Finger0Nub
+    400136: Bip01 R Finger02
+    400138: Bip01 R Finger01
+    400140: Bip01 R UpperArm
+    400142: Bip01 R Clavicle
+    400144: Bip01 L Finger4Nub
+    400146: Bip01 L Finger42
+    400148: Bip01 L Finger41
+    400150: Bip01 L Finger3Nub
+    400152: Bip01 L Finger32
+    400154: Bip01 L Finger31
+    400156: Bip01 L Finger2Nub
+    400158: Bip01 L Finger22
+    400160: Bip01 L Finger21
+    400162: Bip01 L Finger1Nub
+    400164: Bip01 L Finger12
+    400166: Bip01 L Finger11
+    400168: Bip01 L Finger0Nub
+    400170: Bip01 L Finger02
+    400172: Bip01 L Finger01
+    400174: Bip01 L UpperArm
+    400176: Bip01 L Clavicle
+    400178: thief-hips-skirt
+    400180: Bip01 R Finger4
+    400182: Bip01 Footsteps
+    400184: Bip01
+    400186: thief-head
+    400188: Bip01 L Hand
+    400190: Bip01 L Forearm
+    400192: Bip01 L Finger0
+    400194: Bip01 L Toe0Nub
+    400196: Bip01 L Toe0
+    4300000: thief-cloak
+    4300002: thief-body
+    4300004: thief-skirt
+    4300006: thief-hips-skirt
+    4300008: thief-head
+    4300010: bow
+    4300012: sword
+    4300014: knife
+    4300016: torch
+    4300018: thief-knives
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: knife
+    13700002: bow
+    13700004: thief-knives
+    13700006: torch
+    13700008: thief-skirt
+    13700010: thief-body
+    13700012: thief-cloak
+    13700014: sword
+    13700016: thief-hips-skirt
+    13700018: thief-head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

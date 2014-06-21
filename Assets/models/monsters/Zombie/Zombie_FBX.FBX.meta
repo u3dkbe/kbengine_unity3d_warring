@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: b4cd1f2c5aa056b418a772dde833d102
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01 L Finger4
+    100002: Bip01 R Finger32
+    100004: Bip01 R Finger3
+    100006: Bip01 L Finger41 1
+    100008: Bip01 L Forearm 1
+    100010: def_R_Clavicle
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Foot
+    100016: brain
+    100018: Bip01 R Finger42
+    100020: Bip01 R Finger21
+    100022: Bip01 R Finger22
+    100024: Bip01 L Finger02 1
+    100026: Bip01 L Finger01
+    100028: Bip01 L Finger2Nub
+    100030: Bip01 Pelvis
+    100032: Bip01 R Finger1 1
+    100034: Bip01 L Finger0 1
+    100036: Bip01 L Hand
+    100038: Bip01 Tongue01
+    100040: Bip01 Tongue
+    100042: def_Jaw
+    100044: Bip01 R Finger4
+    100046: Bip01 Footsteps
+    100048: zombie_leg_R
+    100050: Bip01 Neck
+    100052: Bip01 L Finger0
+    100054: Bip01 L Foot 1
+    100056: Bip01 L Finger1
+    100058: Bip01 L Thigh
+    100060: Bip01 R Hand
+    100062: Bip01 L Finger01 1
+    100064: Bip01 L Finger31
+    100066: Bip01 L Hand 1
+    100068: Bip01 R Finger01 1
+    100070: Bip01 L Calf
+    100072: Bip01 R Clavicle
+    100074: Bip01 R Calf 1
+    100076: Bip01 Tongue02
+    100078: Bip01 L Finger0Nub
+    100080: Bip01 L Toe0Nub
+    100082: def_Spine2
+    100084: Bip01 R Foot
+    100086: Bip01 R Finger31
+    100088: Bip01 Spine
+    100090: Bip01 R Finger4 1
+    100092: Bip01 Spine2
+    100094: Bip01 R Foot 1
+    100096: Bip01 R Hand 1
+    100098: Bip01 R Finger0 1
+    100100: zombie_forearm_R
+    100102: Bip01 R Calf
+    100104: Bip01 Head
+    100106: Bip01 R Finger0Nub
+    100108: Bip01 L Finger3Nub
+    100110: Bip01 R Finger32 1
+    100112: Bip01 R Finger11
+    100114: Brain_ctrl_dummy
+    100116: Bip01 L Finger21
+    100118: def_Head
+    100120: Bip01 L Finger2
+    100122: Bip01 L Finger3
+    100124: Bip01 R Finger0
+    100126: Bip01 R Forearm 1
+    100128: Bip01 R Thigh
+    100130: def_Neck
+    100132: Bip01 R Finger01
+    100134: zombie_head
+    100136: Bip01 Spine1
+    100138: Bip01 L Finger31 1
+    100140: Bip01 HeadNub
+    100142: Bip01 L Finger12
+    100144: def_Tongue
+    100146: Bip01 R Finger22 1
+    100148: Bip01 L Calf 1
+    100150: Bip01 R Finger12
+    100152: zombie_leg_L
+    100154: def_Tongue01
+    100156: Bip01 R Finger02 1
+    100158: Bip01 R Finger1
+    100160: Bip01 L Forearm
+    100162: Bip01 R Finger2
+    100164: Bip01 R Finger42 1
+    100166: Bip01 Jaw
+    100168: Bip01 R Finger2 1
+    100170: Bip01 L Finger4 1
+    100172: Bip01 L Finger12 1
+    100174: Bip01 L Toe0
+    100176: zombie_forearm_L
+    100178: Bip01 L Finger02
+    100180: def_L_Clavicle
+    100182: Bip01 R Forearm
+    100184: Bip01 R Toe0
+    100186: def_Tongue02
+    100188: Bip01 L Finger32 1
+    100190: Bip01
+    100192: Bip01 R Finger41
+    100194: Bip01 L Finger11 1
+    100196: Bip01 L Finger11
+    100198: Bip01 L Finger32
+    100200: Bip01 L Finger41
+    100202: Bip01 L Finger42
+    100204: Bip01 R Finger02
+    100206: Bip01 L Finger2 1
+    100208: Bip01 L Finger1Nub
+    100210: Brain_ctrl_dummy01
+    100212: zombie_chopped_arm_R_parent_dummy
+    100214: Bip01 L Finger21 1
+    100216: Bip01 L Finger22 1
+    100218: Bip01 R Finger41 1
+    100220: Bip01 R Finger3Nub
+    100222: Bip01 R Finger31 1
+    100224: Bip01 R Finger3 1
+    100226: Bip01 R Finger2Nub
+    100228: //RootNode
+    100230: Bip01 R Finger21 1
+    100232: Bip01 R Finger1Nub
+    100234: Bip01 R Finger12 1
+    100236: Bip01 R Finger11 1
+    100238: Bip01 L Finger22
+    100240: Zombie_chopped_mesh
+    100242: Bip01 L Finger4Nub
+    100244: Bip01 L UpperArm
+    100246: Bip01 L Finger1 1
+    100248: Bip01 R Toe0Nub
+    100250: Bip01 L Finger3 1
+    100252: Bip01 R UpperArm
+    100254: Bip01 L Finger42 1
+    100256: Bip01 R Finger4Nub
+    400000: Bip01 L Finger4
+    400002: Bip01 R Finger32
+    400004: Bip01 R Finger3
+    400006: Bip01 L Finger41 1
+    400008: Bip01 L Forearm 1
+    400010: def_R_Clavicle
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Foot
+    400016: brain
+    400018: Bip01 R Finger42
+    400020: Bip01 R Finger21
+    400022: Bip01 R Finger22
+    400024: Bip01 L Finger02 1
+    400026: Bip01 L Finger01
+    400028: Bip01 L Finger2Nub
+    400030: Bip01 Pelvis
+    400032: Bip01 R Finger1 1
+    400034: Bip01 L Finger0 1
+    400036: Bip01 L Hand
+    400038: Bip01 Tongue01
+    400040: Bip01 Tongue
+    400042: def_Jaw
+    400044: Bip01 R Finger4
+    400046: Bip01 Footsteps
+    400048: zombie_leg_R
+    400050: Bip01 Neck
+    400052: Bip01 L Finger0
+    400054: Bip01 L Foot 1
+    400056: Bip01 L Finger1
+    400058: Bip01 L Thigh
+    400060: Bip01 R Hand
+    400062: Bip01 L Finger01 1
+    400064: Bip01 L Finger31
+    400066: Bip01 L Hand 1
+    400068: Bip01 R Finger01 1
+    400070: Bip01 L Calf
+    400072: Bip01 R Clavicle
+    400074: Bip01 R Calf 1
+    400076: Bip01 Tongue02
+    400078: Bip01 L Finger0Nub
+    400080: Bip01 L Toe0Nub
+    400082: def_Spine2
+    400084: Bip01 R Foot
+    400086: Bip01 R Finger31
+    400088: Bip01 Spine
+    400090: Bip01 R Finger4 1
+    400092: Bip01 Spine2
+    400094: Bip01 R Foot 1
+    400096: Bip01 R Hand 1
+    400098: Bip01 R Finger0 1
+    400100: zombie_forearm_R
+    400102: Bip01 R Calf
+    400104: Bip01 Head
+    400106: Bip01 R Finger0Nub
+    400108: Bip01 L Finger3Nub
+    400110: Bip01 R Finger32 1
+    400112: Bip01 R Finger11
+    400114: Brain_ctrl_dummy
+    400116: Bip01 L Finger21
+    400118: def_Head
+    400120: Bip01 L Finger2
+    400122: Bip01 L Finger3
+    400124: Bip01 R Finger0
+    400126: Bip01 R Forearm 1
+    400128: Bip01 R Thigh
+    400130: def_Neck
+    400132: Bip01 R Finger01
+    400134: zombie_head
+    400136: Bip01 Spine1
+    400138: Bip01 L Finger31 1
+    400140: Bip01 HeadNub
+    400142: Bip01 L Finger12
+    400144: def_Tongue
+    400146: Bip01 R Finger22 1
+    400148: Bip01 L Calf 1
+    400150: Bip01 R Finger12
+    400152: zombie_leg_L
+    400154: def_Tongue01
+    400156: Bip01 R Finger02 1
+    400158: Bip01 R Finger1
+    400160: Bip01 L Forearm
+    400162: Bip01 R Finger2
+    400164: Bip01 R Finger42 1
+    400166: Bip01 Jaw
+    400168: Bip01 R Finger2 1
+    400170: Bip01 L Finger4 1
+    400172: Bip01 L Finger12 1
+    400174: Bip01 L Toe0
+    400176: zombie_forearm_L
+    400178: Bip01 L Finger02
+    400180: def_L_Clavicle
+    400182: Bip01 R Forearm
+    400184: Bip01 R Toe0
+    400186: def_Tongue02
+    400188: Bip01 L Finger32 1
+    400190: Bip01
+    400192: Bip01 R Finger41
+    400194: Bip01 L Finger11 1
+    400196: Bip01 L Finger11
+    400198: Bip01 L Finger32
+    400200: Bip01 L Finger41
+    400202: Bip01 L Finger42
+    400204: Bip01 R Finger02
+    400206: Bip01 L Finger2 1
+    400208: Bip01 L Finger1Nub
+    400210: Brain_ctrl_dummy01
+    400212: zombie_chopped_arm_R_parent_dummy
+    400214: Bip01 L Finger21 1
+    400216: Bip01 L Finger22 1
+    400218: Bip01 R Finger41 1
+    400220: Bip01 R Finger3Nub
+    400222: Bip01 R Finger31 1
+    400224: Bip01 R Finger3 1
+    400226: Bip01 R Finger2Nub
+    400228: //RootNode
+    400230: Bip01 R Finger21 1
+    400232: Bip01 R Finger1Nub
+    400234: Bip01 R Finger12 1
+    400236: Bip01 R Finger11 1
+    400238: Bip01 L Finger22
+    400240: Zombie_chopped_mesh
+    400242: Bip01 L Finger4Nub
+    400244: Bip01 L UpperArm
+    400246: Bip01 L Finger1 1
+    400248: Bip01 R Toe0Nub
+    400250: Bip01 L Finger3 1
+    400252: Bip01 R UpperArm
+    400254: Bip01 L Finger42 1
+    400256: Bip01 R Finger4Nub
+    2300000: brain
+    3300000: brain
+    4300000: Zombie_chopped_mesh
+    4300002: zombie_forearm_L
+    4300004: zombie_leg_R
+    4300006: zombie_leg_L
+    4300008: zombie_head
+    4300010: zombie_forearm_R
+    4300012: brain
+    7400000: idle
+    7400002: brains
+    7400004: attack
+    7400006: getHit
+    7400008: fall
+    7400010: getShot_L
+    7400012: getShot_R
+    7400014: armCutOff_L
+    7400016: armCutOff_R
+    7400018: headCutOff
+    7400020: legCutOff_L
+    7400022: legCutOff_L
+    7400024: eatingBrains
+    11100000: //RootNode
+    13700000: zombie_leg_R
+    13700002: zombie_forearm_R
+    13700004: zombie_head
+    13700006: zombie_leg_L
+    13700008: zombie_forearm_L
+    13700010: Zombie_chopped_mesh
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: brains
+      takeName: 
+      firstFrame: 61
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: 
+      firstFrame: 122
+      lastFrame: 174
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getHit
+      takeName: 
+      firstFrame: 175
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fall
+      takeName: 
+      firstFrame: 201
+      lastFrame: 336
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getShot_L
+      takeName: 
+      firstFrame: 337
+      lastFrame: 362
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getShot_R
+      takeName: 
+      firstFrame: 363
+      lastFrame: 388
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: armCutOff_L
+      takeName: 
+      firstFrame: 389
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: armCutOff_R
+      takeName: 
+      firstFrame: 466
+      lastFrame: 543
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: headCutOff
+      takeName: 
+      firstFrame: 544
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: legCutOff_L
+      takeName: 
+      firstFrame: 771
+      lastFrame: 1007
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: legCutOff_L
+      takeName: 
+      firstFrame: 1008
+      lastFrame: 1180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: eatingBrains
+      takeName: 
+      firstFrame: 1181
+      lastFrame: 1323
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 5f396d057aa82c84196aedab51716d78
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip001 R Foot
+    100002: Bip001 R Calf
+    100004: mon_orcWrrior
+    100006: Bip001 R Toe0
+    100008: Bip001 R Hand
+    100010: Bip001 Ammo L
+    100012: Bip001 L Hand
+    100014: Bip001 Neck
+    100016: Bip001 Spine2
+    100018: Bip001 Spine1
+    100020: Bip001 Spine
+    100022: Bip001 Pelvis
+    100024: Bip001
+    100026: //RootNode
+    100028: Bip001 R Toe0Nub
+    100030: Bip001 L Toe0Nub
+    100032: Bip001 ForeHaedNub
+    100034: Bip001 Eyelid RNub
+    100036: Bip001 Eyelid LNub
+    100038: Bip001 Ammo RNub
+    100040: Bip001 WeaponNub
+    100042: Bip001 R Finger1Nub
+    100044: Bip001 R Finger11
+    100046: Bip001 R Finger1
+    100048: Bip001 R Finger0Nub
+    100050: Bip001 R Finger01
+    100052: Bip001 R Finger0
+    100054: Bip001 R Forearm
+    100056: Bip001 R UpperArm
+    100058: Bip001 R Clavicle
+    100060: Bip001 Ammo LNub
+    100062: Bip001 L Finger1Nub
+    100064: Bip001 L Finger11
+    100066: Bip001 L Finger1
+    100068: Bip001 L Finger0Nub
+    100070: Bip001 L Finger01
+    100072: Bip001 L Finger0
+    100074: Bip001 L Forearm
+    100076: Bip001 L UpperArm
+    100078: Bip001 L Clavicle
+    100080: Bip001 Footsteps
+    100082: Bip001 ForeHaed
+    100084: Bip001 JawNub
+    100086: Bip001 Jaw
+    100088: Bip001 Eyelid R
+    100090: Bip001 Eyelid L
+    100092: Bip001 Eye RNub
+    100094: Bip001 Eye R
+    100096: Bip001 Eye LNub
+    100098: Bip001 Eye L
+    100100: Bip001 HeadNub
+    100102: Bip001 Head
+    100104: Bip001 Ammo R
+    100108: Bip001 Weapon
+    100110: Bip001 R Thigh
+    100112: Bip001 L Toe0
+    100114: Bip001 L Foot
+    100116: Bip001 L Calf
+    100118: Bip001 L Thigh
+    400000: Bip001 R Foot
+    400002: Bip001 R Calf
+    400004: mon_orcWrrior
+    400006: Bip001 R Toe0
+    400008: Bip001 R Hand
+    400010: Bip001 Ammo L
+    400012: Bip001 L Hand
+    400014: Bip001 Neck
+    400016: Bip001 Spine2
+    400018: Bip001 Spine1
+    400020: Bip001 Spine
+    400022: Bip001 Pelvis
+    400024: Bip001
+    400026: //RootNode
+    400028: Bip001 R Toe0Nub
+    400030: Bip001 L Toe0Nub
+    400032: Bip001 ForeHaedNub
+    400034: Bip001 Eyelid RNub
+    400036: Bip001 Eyelid LNub
+    400038: Bip001 Ammo RNub
+    400040: Bip001 WeaponNub
+    400042: Bip001 R Finger1Nub
+    400044: Bip001 R Finger11
+    400046: Bip001 R Finger1
+    400048: Bip001 R Finger0Nub
+    400050: Bip001 R Finger01
+    400052: Bip001 R Finger0
+    400054: Bip001 R Forearm
+    400056: Bip001 R UpperArm
+    400058: Bip001 R Clavicle
+    400060: Bip001 Ammo LNub
+    400062: Bip001 L Finger1Nub
+    400064: Bip001 L Finger11
+    400066: Bip001 L Finger1
+    400068: Bip001 L Finger0Nub
+    400070: Bip001 L Finger01
+    400072: Bip001 L Finger0
+    400074: Bip001 L Forearm
+    400076: Bip001 L UpperArm
+    400078: Bip001 L Clavicle
+    400080: Bip001 Footsteps
+    400082: Bip001 ForeHaed
+    400084: Bip001 JawNub
+    400086: Bip001 Jaw
+    400088: Bip001 Eyelid R
+    400090: Bip001 Eyelid L
+    400092: Bip001 Eye RNub
+    400094: Bip001 Eye R
+    400096: Bip001 Eye LNub
+    400098: Bip001 Eye L
+    400100: Bip001 HeadNub
+    400102: Bip001 Head
+    400104: Bip001 Ammo R
+    400108: Bip001 Weapon
+    400110: Bip001 R Thigh
+    400112: Bip001 L Toe0
+    400114: Bip001 L Foot
+    400116: Bip001 L Calf
+    400118: Bip001 L Thigh
+    4300000: Weapon
+    4300002: mon_orcWrrior
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: mon_orcWrrior
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,56 @@
+﻿-------------------------------------------------
+             NGUI: Next-Gen UI kit
+  Copyright © 2011-2013 Tasharen Entertainment
+      http://www.tasharen.com/?page_id=197
+-------------------------------------------------
+
+First of all, before importing either of the packages, always follow the first
+two steps of the upgrade process:
+
+1. Start a new scene.
+2. Delete the Examples, Resources, and Scripts folders within the NGUI folder.
+
+(of course if you're brand-new to NGUI, the above does not apply to you)
+
+-----------------------------------------------
+WHICH VERSION OF THE PACKAGE SHOULD YOU IMPORT?
+-----------------------------------------------
+
+1. If you are starting a new project, import the "NGUI v.3.0.2" unity package.
+   This video should be a good starting point for you:
+   http://www.youtube.com/watch?v=OT0hTxjjkY4&list=UUQGZdUwzE8gmvgjomZSNFJg
+
+2. If you are working with an existing project that was using NGUI 2.7.0 or
+   earlier, but don't mind spending some time upgrading it to use the latest
+   version's features, import the "NGUI v.3.0.2" unity package as well,
+   but ONLY AFTER BACKING UP YOUR CURRENT PROJECT!! This version will have
+   all the latest features and fixes, but it is NOT BACKWARDS COMPATIBLE
+   due to the sheer amount of stuff changed/added in NGUI 3.
+
+   **** !!! YOU HAVE BEEN WARNED !!! ****
+
+   This video should help you upgrade:
+   http://www.youtube.com/watch?v=uNSZsMnhS1o&list=UUQGZdUwzE8gmvgjomZSNFJg
+
+   There are also some upgrade notes available below the version notes:
+   http://www.tasharen.com/forum/index.php?topic=11.msg27296#msg27296
+
+   Importing the "Upgrade Tools" unity package will also help you migrate.
+   It re-adds the obsolete classes that have been removed, but also adds
+   a menu option to automatically find them and upgrade them as needed.
+   Note that this only upgrades all objects currently present in the scene,
+   and it will NOT upgrade any prefabs you may have. You need to drag them
+   into the scene first (and don't forget to hit apply / save later!).
+
+3. If you are in the middle of a project using NGUI 2.6 or earlier, and don't
+   have the necessary time to spend upgrading to the latest, import "NGUI 2.7.0"
+   unity package. This version will not have the latest features, but it
+   will remain backwards compatible with all the previous versions of NGUI,
+   letting you keep working with what you have until you have more time.
+
+-----------------------------------------------
+QUESTIONS / SUPPORT?
+-----------------------------------------------
+
+All via forums:
+http://www.tasharen.com/forum/index.php?board=1.0

@@ -1,0 +1,108 @@
+{"frames": {
+
+"ButtonDisabled.PNG":
+{
+	"frame": {"x":2,"y":2,"w":128,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":24},
+	"sourceSize": {"w":128,"h":32}
+},
+"ButtonDown.PNG":
+{
+	"frame": {"x":132,"y":2,"w":128,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":24},
+	"sourceSize": {"w":128,"h":32}
+},
+"ButtonHighlight.PNG":
+{
+	"frame": {"x":262,"y":2,"w":128,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":24},
+	"sourceSize": {"w":128,"h":32}
+},
+"ButtonUp.PNG":
+{
+	"frame": {"x":2,"y":28,"w":128,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":24},
+	"sourceSize": {"w":128,"h":32}
+},
+"ChatInput.PNG":
+{
+	"frame": {"x":132,"y":28,"w":256,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":32},
+	"sourceSize": {"w":256,"h":32}
+},
+"CommonInput.PNG":
+{
+	"frame": {"x":2,"y":62,"w":128,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":20},
+	"sourceSize": {"w":128,"h":32}
+},
+"xjt_left_Disabled.PNG":
+{
+	"frame": {"x":132,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+},
+"xjt_left_Down.PNG":
+{
+	"frame": {"x":162,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+},
+"xjt_left_Up.PNG":
+{
+	"frame": {"x":192,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+},
+"xjt_right_Disabled.png":
+{
+	"frame": {"x":222,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+},
+"xjt_right_Down.png":
+{
+	"frame": {"x":252,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+},
+"xjt_right_Up.png":
+{
+	"frame": {"x":282,"y":62,"w":28,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":28,"h":26},
+	"sourceSize": {"w":32,"h":32}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bda7d6ae516331cb3ad9b16087951654:1/1$"
+}
+}

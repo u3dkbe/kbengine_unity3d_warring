@@ -1,0 +1,430 @@
+﻿登录注册账号用户名密码请输入错误成功的失败了已存在提交不存在非法码爱我你他她它看是否一二三四五六七八九十时间事件世界进入完成
+重复一次邮箱地址服务器游戏战神指环1234567890-=`~!@#$%^&*()_+\|}]{[	]}qQwWeErRtTyYyUuIiOoPpAaSsDdFfGgHhJjKkLl:;"'ZzXxCcVvBbNnMm<,>.?/ 。，？、】【
+误会中国外国本地文件延时网络数字文字但是天填写个框文本被动技能魔法战士法师道士力量元素防御抵抗天赋加成加乘加减触发除法体质智力敏捷速度攻击力
+法术重击：30.16/1%；法术命中：17.2/1%巨；武器重击：30.16/1%；武器命中：21.52/1%；血蓝法力值武器急速/法术急速：21.52/1%；敏捷带来加成：德鲁伊：17.4敏捷/1%闪避；猎人：33敏捷/1%闪避；法师：30敏捷/1%闪避；圣骑士：30敏捷/1%闪避；牧师：30敏捷/1%闪避；盗贼：25.5敏捷/1%闪避；萨满：30敏捷/1%闪避；术士：30敏捷/1%闪避；战士：40敏捷/1%闪避德鲁伊：30敏捷/1%重击；猎人：47敏捷/1%重击；法师：30敏捷/1%重击；圣骑士：30敏捷/1%重击；牧师：30敏捷/1%重击；盗贼：51敏捷/1%重击；萨满：30敏捷/1%重击；术士：30敏捷/1%重击；战士：46敏捷/1%重击；智力加成：术士：103.24智力/1%重击；德鲁伊：100智力/1%重击；萨满：100.5智力/1%重击；法师：100.5智力/1%重击；牧师：100.8智力/1%重击；圣骑士：106.1智力/1%重击。
+并且再来然后获得任务英雄返回橘色据说角色觉得无敌二次输入密码不匹配请求连接服务器！请点击登录按钮进入游戏骑士兽人半天蚂蚁隐形精力精灵警告注意防护护盾
+用户名:可使用字母、数字、下划线, 限制30个字符服务器返回注册错误码用户名或者邮箱地址不合法, 最大长度限制30个字符。
+密码:限制长度6~16位激活连接成功，密码不合法, 长度限制在6~16位之间等待处理请稍后...网关地址登陆无法连接服务器级别升恭喜你您他他们她们它塔战士
+忘记记住修改请在用户名处输入合法的邮箱地址，系统将发送一份验证邮件帮助您找回密码！列表选择特色称呼创建用户张海角色人物部落联盟
+角色目前还很脆弱哦， 您当前可以找XXX去做任务获得经验。请求获取角色列表连接错误重试异常与服务器的连接已经中断攻击玩法触发们门传送桥船车坐骑
+您可以去兽人洞穴击杀boss获得xx技能书来提升打击能力。您还没有创建角色呢, 请创建一个!"没有找到该角色怪物仇恨判断只能智能职务头衔头像投降
+已不再是新手了， 可以去xx领地刷boss"德古拉", "狼骑", "血精灵", "萨满", "尖刺兽", "暗影"坐标地点委会位置公会帮会家族组队队伍队友敌人好友
+角色目前很强壮哦， 去竞技场和人pk刷排名吧请求中请稍后请换一个名称已经重复被注册了加载周围环境, 请稍后...系统论帅哥照顾设置
+您的打击能力已经非常高了， 可以尝试提升防御等其他能力应用充值删除处角色看存村交易逃跑物品背包装备栏偷窥头盔地图小大按住与服务端的版本不匹配
+战士是真正的武器大师，攻击狂野而致命，每一击都体现了千锤百炼的高超剑技。 在战场上，战士们永远都在最前线，坚固的护甲以及不屈的意志，保护同伴，勇往直前，用血肉之躯杀出通往胜利的血路
+法师是神秘与危险的化身，天地魔力的掌控者。法师使用魔法时天地色变、大地为之颤抖，大范围的魔法技能威力无与伦比被比丘艾克斯球
+必杀技: 毁灭死神降临请求建立登录通信协议请求建立网关通信协议未开放这个职业系统通用同时战斗新手接待员亚历山大压力山大龙请选择复活方式:
+使出全身的力量对敌人造成毁灭性的打击。请求导入entityDef正在加载角色模型普通常规公共队伍家族公会帮会任务原地复活回城
+<root>
+	<Machine::onFindInterfaceAddr>
+		<id>1</id>
+		<descr>寻找组件接口地址。</descr>
+	</Machine::onFindInterfaceAddr>
+
+	<Machine::startserver>
+		<id>2</id>
+		<descr>启动服务器。</descr>
+	</Machine::startserver>
+	
+	<Machine::stopserver>
+		<id>3</id>
+		<descr>停止服务器。</descr>
+	</Machine::stopserver>
+	
+	<Machine::onQueryAllInterfaceInfos>
+		<id>4</id>
+		<descr>查询所有接口信息。</descr>
+	</Machine::onQueryAllInterfaceInfos>
+	
+	<Loginapp::reqClose>
+		<id>1</id>
+		<descr>客户端请求断线。</descr>
+	</Loginapp::reqClose>
+	
+	<Loginapp::reqCreateAccount>
+		<id>2</id>
+		<descr>客户端请求创建一个账号。</descr>
+		<arg>STRING</arg> <!-- 账号名 -->
+		<arg>STRING</arg> <!-- 密码 -->
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流， 具体由开发者来解析 -->
+	</Loginapp::reqCreateAccount>
+	
+	<Loginapp::login>
+		<id>3</id>
+		<descr>客户端请求登录到服务器的loginapp进程， 此进程受到请求验证合法后会返回一个网关地址。</descr>
+		<arg>STRING</arg> <!-- 前端类别 0:调试前端, 1:手机前端, n.. -->
+		<arg>UINT8_ARRAY</arg> <!-- 具体由开发者来解析 -->
+		<arg>STRING</arg> <!-- 账号名 -->
+		<arg>STRING</arg> <!-- 密码 -->
+	</Loginapp::login>
+	
+	<Loginapp::hello>
+		<id>4</id>
+		<descr>hello。</descr>
+	</Loginapp::hello>
+
+	<Loginapp::importClientMessages>
+		<id>5</id>
+		<descr>客户端请求导入消息协议。</descr>
+	</Loginapp::importClientMessages>
+	
+	<Loginapp::reqCreateMailAccount>
+		<id>6</id>
+		<descr>客户端请求创建一个mail账号。</descr>
+		<arg>STRING</arg> <!-- 账号名 -->
+		<arg>STRING</arg> <!-- 密码 -->
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流， 具体由开发者来解析 -->
+	</Loginapp::reqCreateMailAccount>
+	
+	<Baseapp::hello>
+		<id>200</id>
+		<descr>hello。</descr>
+	</Baseapp::hello>
+	
+	<Baseapp::reqClose>
+		<id>201</id>
+		<descr>客户端请求断线。</descr>
+	</Baseapp::reqClose>
+	
+	<Baseapp::loginGateway>
+		<id>202</id>
+		<descr>客户端请求登录到服务器的网关进程， 如果合法则将进入游戏。</descr>
+		<arg>STRING</arg> <!-- 账号名 -->
+		<arg>STRING</arg> <!-- 密码 -->
+	</Baseapp::loginGateway>
+	
+	<Baseapp::reLoginGateway>
+		<id>204</id>
+		<descr>重新登录 快速与网关建立交互关系(前提是之前已经登录了， 
+			之后断开在服务器判定该前端的Entity未超时销毁的前提下可以快速与服务器建立连接并达到操控该entity的目的)
+		</descr>
+		<arg>UINT64</arg> <!-- 64位随机GUID码 -->
+		<arg>INT32</arg> <!-- ENTITY_ID -->
+	</Baseapp::reLoginGateway>
+	
+	<Baseapp::onRemoteCallCellMethodFromClient>
+		<id>205</id>
+		<descr>调用一个cell远程方法。</descr>
+		<arg>INT32</arg> <!-- entityID -->
+
+		<arg>UINT8_ARRAY</arg> <!-- 方法参数二进制流， 具体由方法来解析 -->
+	</Baseapp::onRemoteCallCellMethodFromClient>
+	
+	<Baseapp::onClientActiveTick>
+		<id>206</id>
+		<descr>客户端的tick。</descr>
+	</Baseapp::onClientActiveTick>
+	
+	<Baseapp::importClientMessages>
+		<id>207</id>
+		<descr>客户端请求导入消息协议。</descr>
+	</Baseapp::importClientMessages>
+
+	<Baseapp::importClientEntityDef>
+		<id>208</id>
+		<descr>客户端entitydef导出。</descr>
+	</Baseapp::importClientEntityDef>
+	
+	<Base::onRemoteMethodCall>
+		<id>301</id>
+		<descr>调用一个base远程方法。</descr>
+		<arg>INT32</arg> <!-- entityID -->
+		<arg>UINT16</arg> <!-- 方法ID -->
+		<arg>UINT8_ARRAY</arg> <!-- 方法参数二进制流， 具体由方法来解析 -->
+	</Base::onRemoteMethodCall>
+	
+	<Entity::onRemoteMethodCall>
+		<id>302</id>
+		<descr>调用一个cell远程方法。</descr>
+		<arg>INT32</arg> <!-- entityID -->
+		<arg>UINT16</arg> <!-- 方法ID -->
+		<arg>UINT8_ARRAY</arg> <!-- 方法参数二进制流， 具体由方法来解析 -->
+	</Entity::onRemoteMethodCall>
+	
+	<Proxy::onClientGetCell>
+		<id>401</id>
+		<descr>服务器将cell信息初始化给客户端后， 客户端应该告知服务器这个回调供服务器确定。
+		</descr>
+	</Proxy::onClientGetCell>
+	
+	<Client::onCreateAccountResult>
+		<id>501</id>
+		<descr>创建账号成功和失败回调。</descr>
+		<arg>UINT16</arg> <!-- 错误码 MERCURY_ERR_SRV_NO_READY:服务器没有准备好, 
+									MERCURY_ERR_ACCOUNT_CREATE:创建失败（已经存在）, 
+									MERCURY_SUCCESS:账号创建成功 -->
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流， 具体由开发者来解析 -->
+	</Client::onCreateAccountResult>
+	
+	<Client::onLoginSuccessfully>
+		<id>502</id>
+		<descr>客户端登陆到loginapp，服务器返回成功。</descr>
+		<arg>STRING</arg> <!-- 内部账号名称 -->
+		<arg>STRING</arg> <!-- 网关ip地址 -->
+		<arg>UINT16</arg> <!-- 网关端口 -->
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流， 具体由开发者来解析 -->
+	</Client::onLoginSuccessfully>
+	
+	<Client::onLoginFailed>
+		<id>503</id>
+		<descr>客户端登陆到loginapp，服务器返回失败。</descr>
+		<arg>UINT16</arg> <!-- 错误码 MERCURY_ERR_SRV_NO_READY:服务器没有准备好, 
+									MERCURY_ERR_SRV_OVERLOAD:服务器负载过重, 
+									MERCURY_ERR_NAME_PASSWORD:用户名或者密码不正确 -->
+									
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流， 具体由开发者来解析 -->
+	</Client::onLoginFailed>
+	
+	<Client::onCreatedProxies>
+		<id>504</id>
+		<descr>		服务器端已经创建了一个与客户端关联的代理Entity
+	   在登录时也可表达成功回调。</descr>
+	   <arg>UINT64</arg> <!-- 与entity关联用来短连接身份确认的guid码 -->
+	   <arg>INT32</arg> <!-- entityID -->
+	   <arg>STRING</arg> <!-- 脚本类型 -->
+	</Client::onCreatedProxies>
+
+	<Client::onCreatedEntity>
+		<id>513</id>
+		<descr>		服务器端已经创建了一个与客户端关联的代理Entity
+	   在登录时也可表达成功回调。</descr>
+	   <arg>INT32</arg> <!-- entityID -->
+	   <arg>STRING</arg> <!-- 脚本类型 -->
+	</Client::onCreatedEntity>
+	
+	<Client::onLoginGatewayFailed>
+		<id>505</id>
+		<descr>客户端登陆到网关，服务器返回失败。</descr>
+		<arg>UINT16</arg> <!-- 错误码 MERCURY_ERR_SRV_NO_READY:服务器没有准备好, 
+									MERCURY_ERR_ILLEGAL_LOGIN:非法登录, 
+									MERCURY_ERR_NAME_PASSWORD:用户名或者密码不正确 -->
+	</Client::onLoginGatewayFailed>
+	
+	<Client::onRemoteMethodCall>
+		<id>506</id>
+		<descr>调用一个远程方法。</descr>
+		<arg>INT32</arg> <!-- entityID -->
+		<arg>UINT16</arg> <!-- 方法ID -->
+		<arg>UINT8_ARRAY</arg> <!-- 方法参数二进制流， 具体由方法来解析 -->
+	</Client::onRemoteMethodCall>
+	
+	<Client::onEntityEnterWorld>
+		<id>507</id>
+		<descr>一个entity进入世界(初次登录时第一个进入世界的是自己这个ENTITY， 其后理论是其他entity， 对比ID来判断)。
+			当有entity进入玩家的AOI时则会触发客户端这个接口。 (AOI: area of interest, 也可理解为服务器上可视范围)
+		</descr>
+		<arg>INT32</arg> <!-- 进入世界的entityID int32 -->
+		<arg>UINT32</arg> <!-- spaceID uint32 -->
+	</Client::onEntityEnterWorld>
+	
+	<Client::onEntityLeaveWorld>
+		<id>508</id>
+		<descr>一个entity进入世界(初次登录时第一个进入世界的是自己这个ENTITY， 其后理论是其他entity， 对比ID来判断)。
+			当有entity离开玩家的AOI时则会触发客户端这个接口。
+		</descr>
+		<arg>INT32</arg> <!-- 进入世界的entityID int32 -->
+		<arg>UINT32</arg> <!-- spaceID uint32 -->
+	</Client::onEntityLeaveWorld>
+
+	<Client::onEntityEnterSpace>
+		<id>509</id>
+		<descr>一个entity进入世界(初次登录时第一个进入世界的是自己这个ENTITY， 其后理论是其他entity， 对比ID来判断)。
+			当有entity进入玩家的AOI时则会触发客户端这个接口。 (AOI: area of interest, 也可理解为服务器上可视范围)
+		</descr>
+		<arg>UINT32</arg> <!-- 一个场景的ID uint32-->
+		<arg>INT32</arg> <!-- 进入世界的entityID int32 -->
+	</Client::onEntityEnterSpace>
+	
+	<Client::onEntityLeaveSpace>
+		<id>510</id>
+		<descr>一个entity进入世界(初次登录时第一个进入世界的是自己这个ENTITY， 其后理论是其他entity， 对比ID来判断)。
+			当有entity离开玩家的AOI时则会触发客户端这个接口。
+		</descr>
+		<arg>UINT32</arg> <!-- 一个场景的ID uint32-->
+		<arg>INT32</arg> <!-- 进入世界的entityID int32 -->
+	</Client::onEntityLeaveSpace>
+	
+	<Client::onUpdatePropertys>
+		<id>511</id>
+		<descr>某个entity的属性被更新了。
+		</descr>
+		<arg>INT32</arg> <!-- entityID int32 -->
+		<arg>UINT8_ARRAY</arg> <!-- 属性更新包， 需要解析 -->
+	</Client::onUpdatePropertys>
+	
+	<Client::onEntityDestroyed>
+		<id>512</id>
+		<descr>告诉客户端某个entity销毁了， 此类entity通常是还未onEntityEnterWorld。</descr>
+		<arg>INT32</arg> <!-- entityID int32 -->
+	</Client::onEntityDestroyed>
+	
+	<Client::onStreamDataStarted>
+		<id>514</id>
+		<descr>服务器告知客户端数据流开始下载。
+		</descr>
+		<arg>INT16</arg> <!-- 一个下载句柄 INT16 -->
+		<arg>STRING</arg> <!-- 描述 -->
+	</Client::onStreamDataStarted>
+	
+	<Client::onStreamDataRecv>
+		<id>515</id>
+		<descr>客户端接收到数据流。
+		</descr>
+		<arg>INT16</arg> <!-- 一个下载句柄 INT16 -->
+		<arg>UINT32</arg> <!-- 本次接收的数据大小 -->
+		<arg>UINT8_ARRAY</arg> <!-- 二进制流 -->
+	</Client::onStreamDataRecv>
+	
+	<Client::onStreamDataCompleted>
+		<id>516</id>
+		<descr>服务器告知客户端数据流下载完成。
+		</descr>
+		<arg>INT16</arg> <!-- 一个下载句柄 INT16 -->
+	</Client::onStreamDataCompleted>
+	
+	<Client::onKicked>
+		<id>517</id>
+		<descr>服务器已经踢出该客户端。
+		</descr>
+		<arg>UINT16</arg> <!-- 错误码 mercury_errors.xml -->
+	</Client::onKicked>
+
+	<Client::onImportClientMessages>
+		<id>518</id>
+		<descr>服务器返回的协议包。
+		</descr>
+		<arg>UINT8_ARRAY</arg> <!-- 需要解析 -->
+	</Client::onImportClientMessages>
+
+	<Client::onImportClientEntityDef>
+		<id>519</id>
+		<descr>服务器返回的entitydef数据。
+		</descr>
+		<arg>UINT8_ARRAY</arg> <!-- 需要解析 -->
+	</Client::onImportClientEntityDef>
+
+	<Client::addSpaceGeometryMapping>
+		<id>520</id>
+		<descr>服务器向客户端添加几何映射。
+		</descr>
+		<arg>UINT32</arg> <!-- spaceID -->
+		<arg>STRING</arg> <!-- respath -->
+	</Client::addSpaceGeometryMapping>
+	
+	<Property::position>
+		<id>40000</id>
+		<descr>位置属性。</descr>
+		<arg>VECTOR3</arg> <!-- float(x) float(y) float(z) -->
+	</Property::position>
+
+	<Property::direction>
+		<id>40001</id>
+		<descr>方向属性。</descr>
+		<arg>VECTOR3</arg> <!-- float(roll) float(pitch) float(yaw) -->
+	</Property::direction>
+	
+	<Property::spaceID>
+		<id>40002</id>
+		<descr>所在空间ID。</descr>
+		<arg>SPACE_ID</arg> <!-- uint32 -->
+	</Property::spaceID>
+</root>
+<root>
+	<!-- 错误码类别为:uint16 -->
+	
+	<MERCURY_SUCCESS>
+		<id>0</id>
+		<descr>	无错误(通常表达成功)。</descr>
+	</MERCURY_SUCCESS>
+	
+	<MERCURY_ERR_SRV_NO_READY>
+		<id>1</id>
+		<descr>	服务器没有准备好。</descr>
+	</MERCURY_ERR_SRV_NO_READY>
+
+	<MERCURY_ERR_SRV_OVERLOAD>
+		<id>2</id>
+		<descr>	服务器负载过重。</descr>
+	</MERCURY_ERR_SRV_OVERLOAD>
+	
+	<MERCURY_ERR_ILLEGAL_LOGIN>
+		<id>3</id>
+		<descr>	非法登录。</descr>
+	</MERCURY_ERR_ILLEGAL_LOGIN>
+	
+	<MERCURY_ERR_NAME_PASSWORD>
+		<id>4</id>
+		<descr>	用户名或者密码不正确。</descr>
+	</MERCURY_ERR_NAME_PASSWORD>
+	
+	<MERCURY_ERR_NAME>
+		<id>5</id>
+		<descr>	用户名不正确。</descr>
+	</MERCURY_ERR_NAME>
+	
+	<MERCURY_ERR_PASSWORD>
+		<id>6</id>
+		<descr>	密码不正确。</descr>
+	</MERCURY_ERR_PASSWORD>
+	
+	<MERCURY_ERR_ACCOUNT_CREATE>
+		<id>7</id>
+		<descr>	创建账号失败（已经存在一个相同的账号）。</descr>
+	</MERCURY_ERR_ACCOUNT_CREATE>
+	
+	<MERCURY_ERR_BUSY>
+		<id>8</id>
+		<descr>	操作过于繁忙(例如：在服务器前一次请求未执行完毕的情况下连续N次创建账号)。</descr>
+	</MERCURY_ERR_BUSY>
+	
+	<MERCURY_ERR_ANOTHER_LOGON>
+		<id>9</id>
+		<descr>	当前账号在另一处登录了。</descr>
+	</MERCURY_ERR_ANOTHER_LOGON>
+	
+	<MERCURY_ERR_ACCOUNT_ONLINE>
+		<id>10</id>
+		<descr>	你已经登录了， 服务器拒绝再次登录。</descr>
+	</MERCURY_ERR_ACCOUNT_ONLINE>
+
+	<MERCURY_ERR_PROXY_DESTROYED>
+		<id>11</id>
+		<descr>	与客户端关联的proxy在服务器上已经销毁。</descr>
+	</MERCURY_ERR_PROXY_DESTROYED>
+	
+	<MERCURY_ERR_DIGEST>
+		<id>12</id>
+		<descr>	def-md5不匹配。</descr>
+	</MERCURY_ERR_DIGEST>
+	
+	<MERCURY_ERR_SHUTTINGDOWN>
+		<id>13</id>
+		<descr>	服务器正在关闭中。</descr>
+	</MERCURY_ERR_SHUTTINGDOWN>
+	
+	<MERCURY_ERR_NAME_MAIL>
+		<id>14</id>
+		<descr>	email地址错误。</descr>
+	</MERCURY_ERR_NAME_MAIL>
+	
+	<MERCURY_ERR_ACCOUNT_LOCK>
+		<id>15</id>
+		<descr>	账号被冻结。</descr>
+	</MERCURY_ERR_ACCOUNT_LOCK>
+	
+	<MERCURY_ERR_ACCOUNT_DEADLINE>
+		<id>16</id>
+		<descr>	账号已过期。</descr>
+	</MERCURY_ERR_ACCOUNT_DEADLINE>
+	
+	<MERCURY_ERR_ACCOUNT_NOT_ACTIVATED>
+		<id>17</id>
+		<descr>	账号未激活。</descr>
+	</MERCURY_ERR_ACCOUNT_NOT_ACTIVATED>
+	
+	<MERCURY_ERR_FAILED>
+		<id>18</id>
+		<descr>	操作失败。</descr>
+	</MERCURY_ERR_FAILED>
+	
+</root>

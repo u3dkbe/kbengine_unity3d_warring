@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: 8b0cbfe1516f0354592374482e3a33b3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: barbarian
+    100002: barbarian_arm plate_01_L
+    100004: barbarian_arm plate_01_R
+    100006: barbarian_arm plate_02_L
+    100008: barbarian_arm plate_02_R
+    100010: barbarian_axe_01
+    100012: barbarian_axe_02
+    100014: barbarian_axe_03
+    100016: barbarian_belt
+    100018: barbarian_boot_01
+    100020: barbarian_boot_02
+    100022: barbarian_cloth_01
+    100024: barbarian_cloth_02
+    100026: barbarian_cloth_03
+    100028: barbarian_club_01
+    100030: barbarian_club_02
+    100032: barbarian_club_03
+    100034: barbarian_fat
+    100036: barbarian_fat_cloth_01
+    100038: barbarian_fat_cloth_02
+    100040: barbarian_gladiator_01
+    100042: barbarian_hair_01
+    100044: barbarian_hammer_01
+    100046: barbarian_helmet_01
+    100048: barbarian_helmet_02
+    100050: barbarian_helmet_03
+    100052: barbarian_helmet_04
+    100054: barbarian_knee_pad_L
+    100056: barbarian_knee_pad_R
+    100058: barbarian_leg plate_L
+    100060: barbarian_leg plate_R
+    100062: barbarian_shield
+    100064: barbarian_shoulder pad_01_L
+    100066: barbarian_shoulder pad_01_R
+    100068: barbarian_shoulder pad_02_L
+    100070: barbarian_shoulder pad_02_R
+    100072: barbarian_shoulder pad_03_L
+    100074: barbarian_shoulder pad_03_R
+    100076: barbarian_shoulder pad_04_L
+    100078: barbarian_shoulder pad_04_R
+    100080: barbarian_skn
+    100082: barbarian_spear
+    100084: barbarian_sword_01
+    100086: barbarian_sword_02
+    100088: barbarian_sword_03
+    100090: barbarian_sword_04
+    100092: barbarian_sword_gladius
+    100094: Barbarian_weaponL
+    100096: Barbarian_weaponR
+    100098: Barbariancloth_back
+    100100: Barbariancloth_front
+    100102: BarbarianHead
+    100104: BarbarianLCalf
+    100106: BarbarianLCollarbone
+    100108: BarbarianLDigit11
+    100110: BarbarianLDigit11 1
+    100112: BarbarianLDigit12
+    100114: BarbarianLDigit13
+    100116: BarbarianLDigit21
+    100118: BarbarianLDigit22
+    100120: BarbarianLDigit23
+    100122: BarbarianLDigit31
+    100124: BarbarianLDigit32
+    100126: BarbarianLDigit33
+    100128: BarbarianLFoot
+    100130: BarbarianLForearm
+    100132: BarbarianLPalm
+    100134: BarbarianLThigh
+    100136: BarbarianLUpperarm
+    100138: BarbarianNeck
+    100140: BarbarianPelvis
+    100142: BarbarianRCalf
+    100144: BarbarianRCollarbone
+    100146: BarbarianRDigit11
+    100148: BarbarianRDigit11 1
+    100150: BarbarianRDigit12
+    100152: BarbarianRDigit13
+    100154: BarbarianRDigit21
+    100156: BarbarianRDigit22
+    100158: BarbarianRDigit23
+    100160: BarbarianRDigit31
+    100162: BarbarianRDigit32
+    100164: BarbarianRDigit33
+    100166: BarbarianRFoot
+    100168: BarbarianRForearm
+    100170: BarbarianRibcage
+    100172: BarbarianRPalm
+    100174: BarbarianRThigh
+    100176: BarbarianRUpperarm
+    100178: //RootNode
+    100180: BarbarianSpine1
+    100182: BarbarianSpine2
+    100184: BarbarianSpine3
+    100186: bon_gob_war_face
+    100188: bon_gob_war_jaw
+    400000: barbarian
+    400002: barbarian_arm plate_01_L
+    400004: barbarian_arm plate_01_R
+    400006: barbarian_arm plate_02_L
+    400008: barbarian_arm plate_02_R
+    400010: barbarian_axe_01
+    400012: barbarian_axe_02
+    400014: barbarian_axe_03
+    400016: barbarian_belt
+    400018: barbarian_boot_01
+    400020: barbarian_boot_02
+    400022: barbarian_cloth_01
+    400024: barbarian_cloth_02
+    400026: barbarian_cloth_03
+    400028: barbarian_club_01
+    400030: barbarian_club_02
+    400032: barbarian_club_03
+    400034: barbarian_fat
+    400036: barbarian_fat_cloth_01
+    400038: barbarian_fat_cloth_02
+    400040: barbarian_gladiator_01
+    400042: barbarian_hair_01
+    400044: barbarian_hammer_01
+    400046: barbarian_helmet_01
+    400048: barbarian_helmet_02
+    400050: barbarian_helmet_03
+    400052: barbarian_helmet_04
+    400054: barbarian_knee_pad_L
+    400056: barbarian_knee_pad_R
+    400058: barbarian_leg plate_L
+    400060: barbarian_leg plate_R
+    400062: barbarian_shield
+    400064: barbarian_shoulder pad_01_L
+    400066: barbarian_shoulder pad_01_R
+    400068: barbarian_shoulder pad_02_L
+    400070: barbarian_shoulder pad_02_R
+    400072: barbarian_shoulder pad_03_L
+    400074: barbarian_shoulder pad_03_R
+    400076: barbarian_shoulder pad_04_L
+    400078: barbarian_shoulder pad_04_R
+    400080: barbarian_skn
+    400082: barbarian_spear
+    400084: barbarian_sword_01
+    400086: barbarian_sword_02
+    400088: barbarian_sword_03
+    400090: barbarian_sword_04
+    400092: barbarian_sword_gladius
+    400094: Barbarian_weaponL
+    400096: Barbarian_weaponR
+    400098: Barbariancloth_back
+    400100: Barbariancloth_front
+    400102: BarbarianHead
+    400104: BarbarianLCalf
+    400106: BarbarianLCollarbone
+    400108: BarbarianLDigit11
+    400110: BarbarianLDigit11 1
+    400112: BarbarianLDigit12
+    400114: BarbarianLDigit13
+    400116: BarbarianLDigit21
+    400118: BarbarianLDigit22
+    400120: BarbarianLDigit23
+    400122: BarbarianLDigit31
+    400124: BarbarianLDigit32
+    400126: BarbarianLDigit33
+    400128: BarbarianLFoot
+    400130: BarbarianLForearm
+    400132: BarbarianLPalm
+    400134: BarbarianLThigh
+    400136: BarbarianLUpperarm
+    400138: BarbarianNeck
+    400140: BarbarianPelvis
+    400142: BarbarianRCalf
+    400144: BarbarianRCollarbone
+    400146: BarbarianRDigit11
+    400148: BarbarianRDigit11 1
+    400150: BarbarianRDigit12
+    400152: BarbarianRDigit13
+    400154: BarbarianRDigit21
+    400156: BarbarianRDigit22
+    400158: BarbarianRDigit23
+    400160: BarbarianRDigit31
+    400162: BarbarianRDigit32
+    400164: BarbarianRDigit33
+    400166: BarbarianRFoot
+    400168: BarbarianRForearm
+    400170: BarbarianRibcage
+    400172: BarbarianRPalm
+    400174: BarbarianRThigh
+    400176: BarbarianRUpperarm
+    400178: //RootNode
+    400180: BarbarianSpine1
+    400182: BarbarianSpine2
+    400184: BarbarianSpine3
+    400186: bon_gob_war_face
+    400188: bon_gob_war_jaw
+    2300000: barbarian_arm plate_01_L
+    2300002: barbarian_arm plate_01_R
+    2300004: barbarian_arm plate_02_L
+    2300006: barbarian_arm plate_02_R
+    2300008: barbarian_axe_01
+    2300010: barbarian_axe_02
+    2300012: barbarian_axe_03
+    2300014: barbarian_belt
+    2300016: barbarian_club_01
+    2300018: barbarian_club_02
+    2300020: barbarian_club_03
+    2300022: barbarian_gladiator_01
+    2300024: barbarian_hammer_01
+    2300026: barbarian_helmet_01
+    2300028: barbarian_helmet_02
+    2300030: barbarian_helmet_03
+    2300032: barbarian_helmet_04
+    2300034: barbarian_knee_pad_L
+    2300036: barbarian_knee_pad_R
+    2300038: barbarian_leg plate_L
+    2300040: barbarian_leg plate_R
+    2300042: barbarian_shield
+    2300044: barbarian_shoulder pad_01_L
+    2300046: barbarian_shoulder pad_01_R
+    2300048: barbarian_shoulder pad_02_L
+    2300050: barbarian_shoulder pad_02_R
+    2300052: barbarian_shoulder pad_03_L
+    2300054: barbarian_shoulder pad_03_R
+    2300056: barbarian_shoulder pad_04_L
+    2300058: barbarian_shoulder pad_04_R
+    2300060: barbarian_spear
+    2300062: barbarian_sword_01
+    2300064: barbarian_sword_02
+    2300066: barbarian_sword_03
+    2300068: barbarian_sword_04
+    2300070: barbarian_sword_gladius
+    3300000: barbarian_arm plate_01_L
+    3300002: barbarian_arm plate_01_R
+    3300004: barbarian_arm plate_02_L
+    3300006: barbarian_arm plate_02_R
+    3300008: barbarian_axe_01
+    3300010: barbarian_axe_02
+    3300012: barbarian_axe_03
+    3300014: barbarian_belt
+    3300016: barbarian_club_01
+    3300018: barbarian_club_02
+    3300020: barbarian_club_03
+    3300022: barbarian_gladiator_01
+    3300024: barbarian_hammer_01
+    3300026: barbarian_helmet_01
+    3300028: barbarian_helmet_02
+    3300030: barbarian_helmet_03
+    3300032: barbarian_helmet_04
+    3300034: barbarian_knee_pad_L
+    3300036: barbarian_knee_pad_R
+    3300038: barbarian_leg plate_L
+    3300040: barbarian_leg plate_R
+    3300042: barbarian_shield
+    3300044: barbarian_shoulder pad_01_L
+    3300046: barbarian_shoulder pad_01_R
+    3300048: barbarian_shoulder pad_02_L
+    3300050: barbarian_shoulder pad_02_R
+    3300052: barbarian_shoulder pad_03_L
+    3300054: barbarian_shoulder pad_03_R
+    3300056: barbarian_shoulder pad_04_L
+    3300058: barbarian_shoulder pad_04_R
+    3300060: barbarian_spear
+    3300062: barbarian_sword_01
+    3300064: barbarian_sword_02
+    3300066: barbarian_sword_03
+    3300068: barbarian_sword_04
+    3300070: barbarian_sword_gladius
+    4300000: shield_01
+    4300002: shield_02
+    4300004: dwarf_axe_01
+    4300006: dwarf_sword_01
+    4300008: dwarf_axe_02
+    4300010: dwarf_axe_05
+    4300012: dwarf_hammer_01
+    4300014: dwarf_hammer_02
+    4300016: dwarf_pickaxe_01
+    4300018: dwarf_sword_02
+    4300020: dwarf_axe_04
+    4300022: dwarf_axe_03
+    4300024: dwarf_head_hair
+    4300026: dwarf_helmet_04
+    4300028: dwarf_helmet_05
+    4300030: dwarf_helmet_06
+    4300032: dwarf_helmet_03
+    4300034: dwarf_helmet_01
+    4300036: dwarf_helmet_02
+    4300038: dwarf_belt
+    4300040: dwarf_head_01
+    4300042: dwarf_head_beard_01
+    4300044: dwarf_head_beard_02
+    4300046: dwarf_shoulder pad_01
+    4300048: dwarf_shoulder pad_02
+    4300050: dwarf_shoulder pad_03
+    4300052: dwarf_discs
+    4300054: dwarf_fat_body
+    4300056: dwarf_rgl_body002
+    4300058: dwarf_arm plate
+    4300060: dwarf_leg plate
+    4300062: dwarf_rgl_body
+    4300064: dwarf_str_body
+    4300066: dwarf_skn_body
+    4300068: dwarf_crossbow
+    4300070: dwarf_rifle
+    4300072: barbarian_knee_pad_L
+    4300074: barbarian_leg plate_L
+    4300076: barbarian_knee_pad_R
+    4300078: barbarian_leg plate_R
+    4300080: barbarian_shield
+    4300082: barbarian_arm plate_02_L
+    4300084: barbarian_arm plate_01_L
+    4300086: barbarian_shoulder pad_04_L
+    4300088: barbarian_shoulder pad_03_L
+    4300090: barbarian_shoulder pad_02_L
+    4300092: barbarian_shoulder pad_01_L
+    4300094: barbarian_sword_03
+    4300096: barbarian_sword_01
+    4300098: barbarian_club_03
+    4300100: barbarian_club_01
+    4300102: barbarian_club_02
+    4300104: barbarian_sword_04
+    4300106: barbarian_sword_02
+    4300108: barbarian_axe_03
+    4300110: barbarian_hammer_01
+    4300112: barbarian_axe_01
+    4300114: barbarian_axe_02
+    4300116: barbarian_sword_gladius
+    4300118: barbarian_spear
+    4300120: barbarian_arm plate_02_R
+    4300122: barbarian_arm plate_01_R
+    4300124: barbarian_shoulder pad_04_R
+    4300126: barbarian_shoulder pad_03_R
+    4300128: barbarian_shoulder pad_02_R
+    4300130: barbarian_shoulder pad_01_R
+    4300132: barbarian_helmet_03
+    4300134: barbarian_helmet_02
+    4300136: barbarian_helmet_01
+    4300138: barbarian_helmet_04
+    4300140: barbarian_gladiator_01
+    4300142: barbarian_belt
+    4300144: barbarian
+    4300146: barbarian_hair_01
+    4300148: barbarian_cloth_01
+    4300150: barbarian_cloth_02
+    4300152: barbarian_boot_01
+    4300154: barbarian_boot_02
+    4300156: barbarian_cloth_03
+    4300158: barbarian_fat
+    4300160: barbarian_skn
+    4300162: barbarian_fat_cloth_02
+    4300164: barbarian_fat_cloth_01
+    7400110: idle
+    7400112: idle break
+    7400114: talk
+    7400116: salute
+    7400118: crouch
+    7400120: die1
+    7400122: die2
+    7400124: idle to fight idle
+    7400126: fight idle
+    7400128: fight idle break
+    7400130: hit
+    7400132: punch
+    7400134: attack1
+    7400136: attack2
+    7400138: attack3
+    7400140: special
+    7400142: block
+    7400144: jump
+    7400146: idle to working
+    7400148: 'working '
+    7400150: working to idle
+    7400152: sit
+    7400154: sit cheers
+    7400156: shot
+    7400158: fight idle to shot
+    7400160: shot loop
+    7400162: shot to fight idle
+    7400164: spear
+    7400166: attack left
+    11100000: //RootNode
+    13700000: barbarian
+    13700002: barbarian_boot_01
+    13700004: barbarian_boot_02
+    13700006: barbarian_cloth_01
+    13700008: barbarian_cloth_02
+    13700010: barbarian_cloth_03
+    13700012: barbarian_fat
+    13700014: barbarian_fat_cloth_01
+    13700016: barbarian_fat_cloth_02
+    13700018: barbarian_hair_01
+    13700020: barbarian_skn
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle break
+      takeName: 
+      firstFrame: 120
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: talk
+      takeName: 
+      firstFrame: 190
+      lastFrame: 290
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: salute
+      takeName: 
+      firstFrame: 290
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: crouch
+      takeName: 
+      firstFrame: 340
+      lastFrame: 365
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die1
+      takeName: 
+      firstFrame: 370
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die2
+      takeName: 
+      firstFrame: 450
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle to fight idle
+      takeName: 
+      firstFrame: 490
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fight idle
+      takeName: 
+      firstFrame: 510
+      lastFrame: 560
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fight idle break
+      takeName: 
+      firstFrame: 560
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 600
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: punch
+      takeName: 
+      firstFrame: 620
+      lastFrame: 645
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack1
+      takeName: 
+      firstFrame: 645
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack2
+      takeName: 
+      firstFrame: 670
+      lastFrame: 695
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack3
+      takeName: 
+      firstFrame: 695
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: special
+      takeName: 
+      firstFrame: 725
+      lastFrame: 765
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: block
+      takeName: 
+      firstFrame: 765
+      lastFrame: 785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: 
+      firstFrame: 805
+      lastFrame: 850
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle to working
+      takeName: 
+      firstFrame: 850
+      lastFrame: 865
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 'working '
+      takeName: 
+      firstFrame: 865
+      lastFrame: 925
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: working to idle
+      takeName: 
+      firstFrame: 925
+      lastFrame: 960
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sit
+      takeName: 
+      firstFrame: 965
+      lastFrame: 1005
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sit cheers
+      takeName: 
+      firstFrame: 1005
+      lastFrame: 1045
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: spear
+      takeName: 
+      firstFrame: 1050
+      lastFrame: 1080
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack left
+      takeName: 
+      firstFrame: 1080
+      lastFrame: 1105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

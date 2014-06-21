@@ -1,0 +1,41 @@
+Thank you for purchasing the Terrain Slicing & Neighboring Kit
+
+4.x.x Users
+To add some functionality, please perform the following two steps (unless you've already performed them).
+
+1) Delete the SliceTerrain.js file found in the editor folder. 
+This file is for 3.x users and does not contain some functionality available to 4.x users.
+
+2) Open the SliceTerrain.txt file and resave it as SliceTerrain.js (so Unity recognizes it as a JavaScript file). 
+This file contains code for copying terrain materials and terrain texture normal maps.
+
+*****
+Neighboring Instructions
+
+1) 	Drag the SetNeighbors script onto the first terrain of your terrain group. This terrain
+	should have the smallest x and z values of all the terrains in your group, and will appear at the
+	bottom left of your group from a top down orthgraphic view (press y on the gizmo)
+	
+
+2)	The script should appear in the inspector if you have the terrain selected. For the "Terrains Wide" field
+	enter the number of terrains that exist along a single row (x axis) in your group.
+	For the "Terrains Tall" field, enter the number of terrains that exist along a single column (z axis).
+	
+3) 	Press the auto fill button to have the tool fill the terrain fields in for you.
+	If this doesn't work, or you want to do this step manually, drag the terrains
+	in order (starting with the current terrain) from left to right, bottom to top, onto the
+	terrain fields. 
+	
+***All the edges of the terrains must line up perfectly. This means each terrain can only have one neighbor
+***to a side, and all terrains along a single row must have the same height, while all terrains along a single
+***column must have the same width. If you experiment, you will see that this does not mean ALL terrains
+***must have the same width/height. Also, your terrain group can have different numbers of rows/columns (like 4 x 2).
+	
+4) Press "Play" to see how the terrain edges disappear. The terrains should look like a single terrain.
+
+If you have any problems, questions, or concerns, please feel free to contact me at kgillen@deepspacelabs.net. Please read the
+instructional guides first, however, as it is more in depth than this document.
+
+Visit http://deepspacelabs.net/terrain_slicing.html for the current version number of this kit, as well as
+documents and links to tutorial videos.
+	

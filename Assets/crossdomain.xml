@@ -1,0 +1,12 @@
+<!DOCTYPE cross-domain-policy SYSTEM 'http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd'>
+  
+<?xml version='1.0'?>
+  
+<cross-domain-policy>
+  
+   <allow-http-request-headers-from domain='*' headers='*' secure='false' />
+  
+   <allow-access-from domain='*' secure='false' />
+  
+</cross-domain-policy>
+

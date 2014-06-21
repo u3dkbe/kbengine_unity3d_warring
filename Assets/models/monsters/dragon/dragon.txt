@@ -1,0 +1,17 @@
+0 - 40 stand
+42 - 342 idle
+344 - 364 attack1
+366 - 411 attack2
+413 - 473 breath fire
+475 - 515 whip tail
+517 - 532 hit1
+534 - 549 hit2
+551 - 611 death
+613 - 643 walk
+645 - 659 run
+661 - 706 fly
+708 - 768 fly attack
+770 - 861 fly breath fire
+862 - 882 fly fast
+884 - 904 fly hit
+906 - 969 fly death

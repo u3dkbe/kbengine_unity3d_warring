@@ -1,0 +1,50 @@
+Thank you for purchasing the Terrain Slicing & Neighboring Kit
+
+4.x.x Users
+To add some functionality, please perform the following two steps (unless you've already performed them).
+
+1) Delete the SliceTerrain.js file found in the editor folder. 
+This file is for 3.x users and does not contain some functionality available to 4.x users.
+
+2) Open the SliceTerrain.txt file and resave it as SliceTerrain.js (so Unity recognizes it as a JavaScript file). 
+This file contains code for copying terrain materials and terrain texture normal maps.
+
+
+****
+Slicing Instructions
+1) 	Create your terrain, and name/place it whatever/wherever you want.
+
+2) 	Select the terrain menu item from the top of Unity, and then
+	"Slice Terrain" (or "Slice Terrain Pre 4.0 for non 4.0 users) from
+	the drop down menu that appears. 
+	
+3) 	If you had a terrain selected when you clicked the menu button,
+	the terrain will appear in the "Terrain to Slice" field. If it's empty
+	drag the terrain you want to slice into this field.
+	
+4)	Enter the base terrains detail resolution per patch in the next field
+
+5) 	Select the slicing dimensions : a 2 x 2 grid will form 4 terrain pieces with
+	2 rows and 2 columns. A 4 x 4 grid will form 16 terrai pieces, etc., etc.
+	
+6) 	Enter a different filepath if you wish to store your TerrainData in a different folder than the default folder.
+	Leave this field alone if you're fine with storing the data in the default folder.
+	If you change the folder, you can set this new filepath as the default filepath by clicking the
+	"Save Current File Path as Default File Path" button. Now everytime you slice a terrain in the future,
+	this new filepath will appear.
+	
+7)	Click the "Create Terrain" button. A loading bar should appear if there are no errors. If there are errors,
+	follow the instructions (might have to look at console for some) to rectify the problem.
+	
+**Please note that if you try to slice a terrain with the same name as a terrain that
+has already been sliced, the new terrain data will overwrite the old terrain data.
+I have included a safety net so that you can't do this on accident in the form of an overwrite check box.
+If you try to overwrite existing data and this checkbox is unchecked, an error message will appear telling
+you that you have to check the box in order to proceed.
+
+If you have any problems, questions, or concerns, please feel free to contact me at kgillen@deepspacelabs.net.
+Please read the instructional guides first, however, as it is more in depth than this document.
+
+Visit http://deepspacelabs.net/terrain_slicing.html for the current version number of this kit, as well as
+documents and links to tutorial videos.
+	

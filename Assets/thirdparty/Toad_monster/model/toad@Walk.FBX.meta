@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: dd914381297bff14aa03e94d34ce3a22
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: toad L Finger0Nub
+    100002: toad R Foot
+    100004: toad R Finger0Nub
+    100006: toad R Finger1Nub
+    100008: toad Prop1
+    100010: toad Footsteps
+    100012: toad 1
+    100014: toad
+    100016: Omni002
+    100018: Omni001
+    100020: toad L Clavicle
+    100022: toad HeadNub
+    100024: toad Head
+    100026: toad Tail3
+    100028: toad Tail2
+    100030: toad L Toe0Nub
+    100032: toad L Toe0
+    100034: toad L Finger11
+    100036: toad L Finger1
+    100038: toad Tail
+    100040: toad L Finger01
+    100042: toad L Finger0
+    100044: toad L Hand
+    100046: toad L Forearm
+    100048: toad L UpperArm
+    100050: toad R Toe0
+    100052: wepon
+    100054: toad R Calf
+    100056: toad Tail1
+    100058: //RootNode
+    100060: toad R Hand
+    100062: toad R Forearm
+    100064: toad Tail4
+    100066: toad R Thigh
+    100068: toad L Foot
+    100070: toad L Calf
+    100072: toad L Thigh
+    100074: toad R UpperArm
+    100076: toad R Clavicle
+    100078: toad R Finger1
+    100080: toad R Finger01
+    100082: toad R Finger0
+    100084: toad R Toe0Nub
+    100086: toad TailNub
+    100088: toad L Finger1Nub
+    100090: toad Neck
+    100092: toad Spine
+    100094: toad Pelvis
+    100096: toad R Finger11
+    400000: toad L Finger0Nub
+    400002: toad R Foot
+    400004: toad R Finger0Nub
+    400006: toad R Finger1Nub
+    400008: toad Prop1
+    400010: toad Footsteps
+    400012: toad 1
+    400014: toad
+    400016: Omni002
+    400018: Omni001
+    400020: toad L Clavicle
+    400022: toad HeadNub
+    400024: toad Head
+    400026: toad Tail3
+    400028: toad Tail2
+    400030: toad L Toe0Nub
+    400032: toad L Toe0
+    400034: toad L Finger11
+    400036: toad L Finger1
+    400038: toad Tail
+    400040: toad L Finger01
+    400042: toad L Finger0
+    400044: toad L Hand
+    400046: toad L Forearm
+    400048: toad L UpperArm
+    400050: toad R Toe0
+    400052: wepon
+    400054: toad R Calf
+    400056: toad Tail1
+    400058: //RootNode
+    400060: toad R Hand
+    400062: toad R Forearm
+    400064: toad Tail4
+    400066: toad R Thigh
+    400068: toad L Foot
+    400070: toad L Calf
+    400072: toad L Thigh
+    400074: toad R UpperArm
+    400076: toad R Clavicle
+    400078: toad R Finger1
+    400080: toad R Finger01
+    400082: toad R Finger0
+    400084: toad R Toe0Nub
+    400086: toad TailNub
+    400088: toad L Finger1Nub
+    400090: toad Neck
+    400092: toad Spine
+    400094: toad Pelvis
+    400096: toad R Finger11
+    2300000: wepon
+    3300000: wepon
+    4300000: toad
+    4300002: wepon
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: toad
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

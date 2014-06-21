@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e4c0bae5e17e146e8abab519aabce38f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 12ce9fda0b79a484a83b34b5b2916b21, type: 3}
+  - occluderShader: {fileID: 4800000, guid: 436abcc3eb32c41c1abde613b1f19adf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 7d08ac2da51430d468975fca86171fc9
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip001 R Calf
+    100002: Bip001 R Thigh
+    100004: Bip001 SkirtNub
+    100006: Bip001 Ear RNub
+    100008: Bip001 Ear R
+    100010: Bip001 Ear LNub
+    100012: Bip001 Ear L
+    100014: //RootNode
+    100016: mon_goblinWizard
+    100018: Bip001 R Toe0Nub
+    100020: Bip001 L Toe0Nub
+    100022: Bip001 ForeHaedNub
+    100024: Bip001 Eyelid RNub
+    100026: Bip001 Eyelid LNub
+    100028: Bip001 WeaponNub
+    100030: Bip001 R Finger1Nub
+    100032: Bip001 R Finger11
+    100034: Bip001 R Finger1
+    100036: Bip001 R Finger0Nub
+    100038: Bip001 R Finger01
+    100040: Bip001 R Finger0
+    100042: Bip001 R Forearm
+    100044: Bip001 R UpperArm
+    100046: Bip001 R Clavicle
+    100048: Bip001 L Finger1Nub
+    100050: Bip001 L Finger11
+    100052: Bip001 L Finger1
+    100054: Bip001 L Finger0Nub
+    100056: Bip001 L Finger01
+    100058: Bip001 L Finger0
+    100060: Bip001 L Forearm
+    100062: Bip001 L UpperArm
+    100064: Bip001 L Clavicle
+    100066: Bip001 Footsteps
+    100068: Bip001 L Toe0
+    100070: Bip001 L Foot
+    100072: Bip001 L Calf
+    100074: Bip001 L Thigh
+    100076: Bip001 L Hand
+    100078: Bip001 ForeHaed
+    100080: Bip001 JawNub
+    100082: Bip001 Jaw
+    100084: Bip001 Eye L
+    100086: Bip001 HeadNub
+    100088: Bip001 Head
+    100092: Bip001 Weapon
+    100094: Bip001 Skirt02
+    100096: Bip001 R Foot
+    100098: Bip001 Eyelid R
+    100100: Bip001 Eyelid L
+    100102: Bip001 Eye RNub
+    100104: Bip001 Eye R
+    100106: Bip001 Eye LNub
+    100108: Bip001 Neck
+    100110: Bip001 Spine2
+    100112: Bip001 Spine1
+    100114: Bip001 Spine
+    100116: Bip001 Pelvis
+    100118: Bip001
+    100120: Bip001 Skirt
+    100122: Bip001 R Toe0
+    100124: Bip001 R Hand
+    400000: Bip001 R Calf
+    400002: Bip001 R Thigh
+    400004: Bip001 SkirtNub
+    400006: Bip001 Ear RNub
+    400008: Bip001 Ear R
+    400010: Bip001 Ear LNub
+    400012: Bip001 Ear L
+    400014: //RootNode
+    400016: mon_goblinWizard
+    400018: Bip001 R Toe0Nub
+    400020: Bip001 L Toe0Nub
+    400022: Bip001 ForeHaedNub
+    400024: Bip001 Eyelid RNub
+    400026: Bip001 Eyelid LNub
+    400028: Bip001 WeaponNub
+    400030: Bip001 R Finger1Nub
+    400032: Bip001 R Finger11
+    400034: Bip001 R Finger1
+    400036: Bip001 R Finger0Nub
+    400038: Bip001 R Finger01
+    400040: Bip001 R Finger0
+    400042: Bip001 R Forearm
+    400044: Bip001 R UpperArm
+    400046: Bip001 R Clavicle
+    400048: Bip001 L Finger1Nub
+    400050: Bip001 L Finger11
+    400052: Bip001 L Finger1
+    400054: Bip001 L Finger0Nub
+    400056: Bip001 L Finger01
+    400058: Bip001 L Finger0
+    400060: Bip001 L Forearm
+    400062: Bip001 L UpperArm
+    400064: Bip001 L Clavicle
+    400066: Bip001 Footsteps
+    400068: Bip001 L Toe0
+    400070: Bip001 L Foot
+    400072: Bip001 L Calf
+    400074: Bip001 L Thigh
+    400076: Bip001 L Hand
+    400078: Bip001 ForeHaed
+    400080: Bip001 JawNub
+    400082: Bip001 Jaw
+    400084: Bip001 Eye L
+    400086: Bip001 HeadNub
+    400088: Bip001 Head
+    400092: Bip001 Weapon
+    400094: Bip001 Skirt02
+    400096: Bip001 R Foot
+    400098: Bip001 Eyelid R
+    400100: Bip001 Eyelid L
+    400102: Bip001 Eye RNub
+    400104: Bip001 Eye R
+    400106: Bip001 Eye LNub
+    400108: Bip001 Neck
+    400110: Bip001 Spine2
+    400112: Bip001 Spine1
+    400114: Bip001 Spine
+    400116: Bip001 Pelvis
+    400118: Bip001
+    400120: Bip001 Skirt
+    400122: Bip001 R Toe0
+    400124: Bip001 R Hand
+    4300000: weapon
+    4300002: mon_goblinWizard
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: mon_goblinWizard
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

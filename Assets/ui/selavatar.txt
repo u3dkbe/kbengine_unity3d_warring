@@ -1,0 +1,44 @@
+{"frames": {
+
+"icon_focus.PNG":
+{
+	"frame": {"x":2,"y":2,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":46,"h":46},
+	"sourceSize": {"w":64,"h":64}
+},
+"icon_none.png":
+{
+	"frame": {"x":50,"y":2,"w":62,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"icon_selected.png":
+{
+	"frame": {"x":2,"y":68,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":46,"h":46},
+	"sourceSize": {"w":64,"h":64}
+},
+"icon_wen.png":
+{
+	"frame": {"x":50,"y":68,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":54,"h":54},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "selavatar.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab0544085f0d099ab3f5c28516b3e4cf:1/1$"
+}
+}
