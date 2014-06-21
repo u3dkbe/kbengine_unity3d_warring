@@ -5,33 +5,9 @@ client—warring
 http://www.kbengine.org
 
 ## QQ交流群
-群1: 16535321 群2: 367555003
+	群1: 16535321 
+	群2: 367555003
 
-##warring项目运行效果
-(截图是服务端和客户端在windows7-x64下搭建运行的效果，商用时服务端可以在linux CentOS下运行。)
-![warring项目运行效果--用腾讯微博的外链接达到唯一地址](http://t2.qpic.cn/mblogpic/0d597a54aaf30d4154bc/2000)
-
-
-##下载建议
-采用以下任一种方式下载就行
-
-#1.中国国内用户请访问国内warring镜像
-http://git.oschina.net/likecg/warring
-使用SSH协议下载，不要用https协议下载
-
-#2.百度网盘下载
-http://pan.baidu.com/s/1bn5YxB5
-
-下载后，必须使用winrar5.0.1以上版本解压，解压之后，用git pull命令更新。该命令是增量更新，速度非常快。
-
-#3.中国以外海外用户请直接在bitbucket上下载
-https://bitbucket.org/kbengine/warring/
-
-#git操作指南
-如果你不懂git,或者你以前使用过svn,但是不懂git,也没要紧，可以访问这个博客和对应视频，学习git。理论上说git只需要学习10条命令就能学会。
-http://herry2013git.blog.163.com/blog/static/21956801120144810133569/
-
-如果你想马上下载就能用，但是还不懂git，先下载windows git客户端msysgit,采用百度网盘下载方式。就是第二种方法。
 
 ##GO!
 
@@ -83,3 +59,11 @@ http://herry2013git.blog.163.com/blog/static/21956801120144810133569/
 	Windows XP: C:\Documents and Settings\username\Local  Settings\Temp\UnityWebPlayer\log
 
 	Windows Vista/7: C:\Users\username\AppData\Local\Temp\UnityWebPlayer\log
+
+##warring截图
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo1.jpg)
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo2.jpg)
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo3.jpg)
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo4.jpg)
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo5.jpg)
+![warring项目运行效果](http://www.kbengine.org/assets/img/screenshots/unity3d_demo6.jpg)
