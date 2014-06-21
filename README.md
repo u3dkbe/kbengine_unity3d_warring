@@ -1,4 +1,4 @@
-client—warring
+kbengine_unity3d_warring
 =============
 
 ##服务端引擎:
@@ -23,13 +23,13 @@ http://www.kbengine.org
 	选中: Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
 	选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
 
-##编译:
+##Build:
 
 	unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
 
 	选择Web Player->Build。 
 
-## web服务器部署文件夹结构
+## Web服务器部署文件夹结构
 
 	->(服务器根目录)
 		- StreamingAssets (创建AssetBundles生成的文件夹)
