@@ -10,23 +10,23 @@ http://www.kbengine.org
 
 
 ##GO!
+	更新kbengine插件库kbengine_plugins:
+		git submodule update
 
-	##创建AssetBundles
+	创建AssetBundles
+		unity3d(菜单上)->Publish->Build Pulish AssetBundles - autoAll
 
-	unity3d(菜单上)->Publish->Build Pulish AssetBundles - autoAll
-
-	期间可能一直出现"Moving file failed"， 需要点击"try again"让其继续, 
-	这可能是unity3d在移动文件时文件被占用造成的。
-	执行完毕后检查 Assets->StreamingAssets是否有内容。
+		期间可能一直出现"Moving file failed"， 需要点击"try again"让其继续, 
+		这可能是unity3d在移动文件时文件被占用造成的。
+		执行完毕后检查 Assets->StreamingAssets是否有内容。
 
 	生成服务端寻路数据:
-	选中: Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
-	选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
+		选中: Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
+		选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
 
 ##Build:
 
 	unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
-
 	选择Web Player->Build。 
 
 ## Web服务器部署文件夹结构
@@ -48,16 +48,13 @@ http://www.kbengine.org
 	1. 启动kbengine服务端
 
 	2. 浏览器访问localhost
-
 	如不清楚请下载发布版demo， 并按照其中的文件夹结构放置并看压缩包内文档教程如何启动:
-
 	https://sourceforge.net/projects/kbengine/files/
 
 
 ##日志:
 
 	Windows XP: C:\Documents and Settings\username\Local  Settings\Temp\UnityWebPlayer\log
-
 	Windows Vista/7: C:\Users\username\AppData\Local\Temp\UnityWebPlayer\log
 
 ##warring截图
