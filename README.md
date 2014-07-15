@@ -10,8 +10,12 @@ http://www.kbengine.org
 
 
 ##GO!
-	更新kbengine插件库kbengine_plugins:
-		git submodule update
+	更新kbengine插件库(https://github.com/kbengine/kbengine_unity3d_plugins):
+		* 使用git命令行，进入到kbengine_unity3d_warring目录执行: 
+			git submodule update --init
+
+		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
+![submodule_update](http://www.kbengine.org/assets/img/screenshots/unity3d_plugins_submodule_update.jpg)
 
 	创建AssetBundles
 		unity3d(菜单上)->Publish->Build Pulish AssetBundles - autoAll
