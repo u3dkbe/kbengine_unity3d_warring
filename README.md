@@ -25,8 +25,8 @@ http://www.kbengine.org
 		执行完毕后检查 Assets->StreamingAssets是否有内容。
 
 	生成服务端寻路数据:
-		选中: Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
-		选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
+		unity3d资源浏览器中选中: Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
+		unity3d资源浏览器中选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
 
 ##Build:
 
