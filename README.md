@@ -30,26 +30,29 @@ http://www.kbengine.org
 			unity3d资源浏览器中选中: Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
 		生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。
 
-##Build:
+	测试是否可运行:
+		先开启服务端，unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
+
+##导出WebPlayer项目:
 
 	unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
 	选择Web Player->Build。 
 
-## Web服务器部署文件夹结构
 
-	->(服务器根目录)
-		- StreamingAssets (创建AssetBundles生成的文件夹)
-		- ui (Assets下的ui文件夹可以直接拷贝过来)
-		- crossdomain.xml
-		- initLogo.png
-		- initProgressBar.PNG
-		- initProgressFrame.PNG
-		- index.html
-		- Unity3d.unity3d (在unity3d编译时生成的文件)
-		- Unity3d.html (在unity3d编译时生成的文件)
+##在浏览器运行游戏:
 
+	Web服务器部署文件夹结构:
 
-##运行:
+		->(服务器根目录)
+			- StreamingAssets (创建AssetBundles生成的文件夹)
+			- ui (Assets下的ui文件夹可以直接拷贝过来)
+			- crossdomain.xml
+			- initLogo.png
+			- initProgressBar.PNG
+			- initProgressFrame.PNG
+			- index.html
+			- Unity3d.unity3d (在unity3d编译时生成的文件)
+			- Unity3d.html (在unity3d编译时生成的文件)
 
 	1. 启动kbengine服务端
 
