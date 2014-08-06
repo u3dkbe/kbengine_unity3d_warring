@@ -31,7 +31,7 @@ http://www.kbengine.org
 		生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。
 
 	配置登录IP地址(如果服务端在本机则无需改变):
-		kbengine_unity3d_demo\Assets\Plugins\kbengine\clientapp.cs -> ip
+		kbengine_unity3d_warring\Assets\Plugins\kbengine\clientapp.cs -> ip
 
 	测试是否可运行:
 		先开启服务端，unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
