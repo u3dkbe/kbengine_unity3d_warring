@@ -58,9 +58,10 @@ http://www.kbengine.org
 			- Unity3d.html (在unity3d编译时生成的文件)
 
 	1. 启动kbengine服务端
+	http://www.kbengine.org/docs/installation.html
 
 	2. 浏览器访问localhost
-	如不清楚请下载发布版demo， 并按照其中的文件夹结构放置并看压缩包内文档教程如何启动:
+	如不清楚请下载编译打包好的demo，并按照其中的文件夹结构放置并看压缩包内文档教程如何启动:
 	https://sourceforge.net/projects/kbengine/files/
 
 
