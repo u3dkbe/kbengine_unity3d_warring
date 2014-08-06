@@ -1,7 +1,7 @@
 kbengine_unity3d_warring
 =============
 
-##本项目为kbengine演示而写
+##本项目为kbengine服务端引擎演示而写
 http://www.kbengine.org
 
 ## QQ交流群
