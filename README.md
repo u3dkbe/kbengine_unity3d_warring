@@ -17,6 +17,10 @@ http://www.kbengine.org
 		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
 ![submodule_update](http://www.kbengine.org/assets/img/screenshots/unity3d_plugins_submodule_update.jpg)
 
+		* 也可以手动更新kbengine插件
+			git clone https://github.com/kbengine/kbengine_unity3d_plugins.git
+			插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
+
 	创建AssetBundles
 		unity3d(菜单上)->Publish->Build Pulish AssetBundles - autoAll
 
