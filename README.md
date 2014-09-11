@@ -33,6 +33,7 @@ http://www.kbengine.org
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
 		(注意: 生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。)
+		(如果有更多问题请咨询插件作者: http://www.critterai.org/projects/cainav/)
 
 	配置登录IP地址(如果服务端在本机则无需改变):
 		kbengine_unity3d_warring\Assets\Plugins\kbengine\clientapp.cs -> ip
