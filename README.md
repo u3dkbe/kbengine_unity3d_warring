@@ -22,7 +22,7 @@ http://www.kbengine.org
 			插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
 
 	创建AssetBundles
-		unity3d(菜单上)->Publish->Build Pulish AssetBundles - autoAll
+		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
 
 		期间可能一直出现"Moving file failed"， 需要点击"try again"让其继续, 
 		这可能是unity3d在移动文件时文件被占用造成的。
@@ -70,7 +70,7 @@ http://www.kbengine.org
 	https://sourceforge.net/projects/kbengine/files/
 
 
-##日志:
+##WebPlayer日志:
 
 	Windows XP: C:\Documents and Settings\username\Local  Settings\Temp\UnityWebPlayer\log
 	Windows Vista/7: C:\Users\username\AppData\Local\Temp\UnityWebPlayer\log
