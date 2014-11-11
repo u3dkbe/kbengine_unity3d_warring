@@ -11,7 +11,7 @@ http://www.kbengine.org
 
 ##GO!
 	更新kbengine插件库(https://github.com/kbengine/kbengine_unity3d_plugins):
-		* 使用git命令行，进入到kbengine_unity3d_warring目录执行: 
+		* 使用git命令行，进入到kbengine_unity3d_warring目录执行：
 			git submodule update --init
 
 		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
@@ -21,14 +21,14 @@ http://www.kbengine.org
 			git clone https://github.com/kbengine/kbengine_unity3d_plugins.git
 			插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
 
-	创建AssetBundles
+	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
 
 		期间可能一直出现"Moving file failed"， 需要点击"try again"让其继续, 
 		这可能是unity3d在移动文件时文件被占用造成的。
 		执行完毕后检查 Assets->StreamingAssets是否有内容。
 
-	生成服务端寻路数据:
+	生成服务端寻路数据(默认已经创建，可以跳过这一步)：
 		先将Assets\Plugins\cai-nmgen-rcn(generate navmesh).zip解压放当前目录下并重启unity3d编辑器, 然后执行如下步骤:
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
