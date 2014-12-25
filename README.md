@@ -36,7 +36,9 @@ http://www.kbengine.org
 		(如果有更多问题请咨询插件作者: http://www.critterai.org/projects/cainav/)
 
 	配置登录IP地址(如果服务端在本机则无需改变):
-		kbengine_unity3d_warring\Assets\Plugins\kbengine\clientapp.cs -> ip
+		kbengine_unity3d_warring\Assets\scripts\go\clientapp.cs -> ip
+		kbengine_unity3d_warring\Assets\scripts\go\clientapp.cs -> port
+![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_configure.jpg)
 
 	测试是否可运行:
 		先开启服务端，unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
