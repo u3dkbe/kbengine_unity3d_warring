@@ -11,15 +11,19 @@ http://www.kbengine.org
 
 ##GO!
 	更新kbengine插件库(https://github.com/kbengine/kbengine_unity3d_plugins):
+
 		* 使用git命令行，进入到kbengine_unity3d_warring目录执行：
+
 			git submodule update --init --remote
 ![submodule_update1](http://www.kbengine.org/assets/img/screenshots/gitbash_submodule.png)
+
 		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
 ![submodule_update2](http://www.kbengine.org/assets/img/screenshots/unity3d_plugins_submodule_update.jpg)
 
 		* 也可以手动更新kbengine插件
 			git clone https://github.com/kbengine/kbengine_unity3d_plugins.git
 			插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
+
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
