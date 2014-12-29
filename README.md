@@ -27,7 +27,7 @@ http://www.kbengine.org
 				下载后请将其解压缩,插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
 
 			服务端资产库下载：
-				https://github.com/kbengine/kbengine_demos_assets/archive/master.zip
+				https://github.com/kbengine/kbengine_demos_assets/releases/latest
 				下载后请将其解压缩,并将目录文件放置于服务端引擎kbengine/目录之下
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
@@ -66,10 +66,9 @@ http://www.kbengine.org
 	测试是否可运行:
 		先开启服务端
 			Windows:
-
 				kbengine\kbengine_demos_assets\start_server_fixed.bat
-			Linux:
 
+			Linux:
 				kbengine\kbengine_demos_assets\start_server_fixed.sh
 
 			(more: http://www.kbengine.org/docs/startup_shutdown.html)
