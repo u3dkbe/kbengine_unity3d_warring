@@ -10,7 +10,7 @@ http://www.kbengine.org
 
 
 ##GO!
-	更新kbengine插件库(https://github.com/kbengine/kbengine_unity3d_plugins):
+	下载kbengine客户端插件与服务端Demo资产库:
 
 		* 使用git命令行，进入到kbengine_unity3d_warring目录执行：
 
@@ -20,10 +20,15 @@ http://www.kbengine.org
 		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
 ![submodule_update2](http://www.kbengine.org/assets/img/screenshots/unity3d_plugins_submodule_update.jpg)
 
-		* 也可以手动更新kbengine插件
-			git clone https://github.com/kbengine/kbengine_unity3d_plugins.git
-			插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
+		* 也可以手动下载kbengine插件与服务端Demo资产库
 
+			插件下载：
+				https://github.com/kbengine/kbengine_unity3d_plugins/archive/master.zip
+				下载后请将其解压缩,插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
+
+			服务端资产库下载：
+				https://github.com/kbengine/kbengine_demos_assets/archive/master.zip
+				下载后请将其解压缩,并将目录文件放置于服务端引擎kbengine/目录之下
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
@@ -44,12 +49,30 @@ http://www.kbengine.org
 		kbengine_unity3d_warring\Assets\scripts\go\clientapp.cs -> port
 ![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_configure.jpg)
 
+
+##安装服务端:
+	下载服务端源码:
+		https://github.com/kbengine/kbengine/releases/latest
+
+	将服务端资产库拷贝到引擎根目录下:
+		"kbengine_unity3d_demo\kbengine_demos_assets" -> "kbengine\"
+
+![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_copy_kbengine.jpg)
+
+	编译与安装:
+		http://www.kbengine.org/cn/docs/build.html
+		http://www.kbengine.org/cn/docs/installation.html
+
 	测试是否可运行:
-		先开启服务端，unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
+		先开启服务端
+			kbengine\kbengine_demos_assets\start_server_fixed.bat
+			(more: http://www.kbengine.org/docs/startup_shutdown.html)
+
+		unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
 
 ##导出WebPlayer项目:
 
-	unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
+	Unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
 	选择Web Player->Build。 
 
 
