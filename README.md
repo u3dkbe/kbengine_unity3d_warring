@@ -65,7 +65,13 @@ http://www.kbengine.org
 
 	测试是否可运行:
 		先开启服务端
-			kbengine\kbengine_demos_assets\start_server_fixed.bat
+			Windows:
+
+				kbengine\kbengine_demos_assets\start_server_fixed.bat
+			Linux:
+
+				kbengine\kbengine_demos_assets\start_server_fixed.sh
+
 			(more: http://www.kbengine.org/docs/startup_shutdown.html)
 
 		unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
