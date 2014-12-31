@@ -71,7 +71,10 @@ http://www.kbengine.org
 			Linux:
 				kbengine\kbengine_demos_assets\start_server_fixed.sh
 
-			(more: http://www.kbengine.org/docs/startup_shutdown.html)
+		检查启动状态:
+				如果启动成功将会在日志中找到"Components::process(): Found all the components!"。
+				任何其他情况请在日志中搜索"ERROR"关键字，根据错误描述尝试解决。
+				(More: http://www.kbengine.org/cn/docs/startup_shutdown.html)
 
 		unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
 
