@@ -28,7 +28,7 @@ http://www.kbengine.org
 
 			服务端资产库下载：
 				https://github.com/kbengine/kbengine_demos_assets/releases/latest
-				下载后请将其解压缩,并将目录文件放置于服务端引擎kbengine/目录之下
+				下载后请将其解压缩,并将目录文件放置于服务端引擎根目录"kbengine/"之下
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
@@ -54,7 +54,7 @@ http://www.kbengine.org
 	下载服务端源码:
 		https://github.com/kbengine/kbengine/releases/latest
 
-	将服务端资产库拷贝到引擎根目录下:
+	将服务端资产库拷贝到服务端引擎根目录下:
 		"kbengine_unity3d_demo\kbengine_demos_assets" -> "kbengine\"
 
 ![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_copy_kbengine.jpg)
