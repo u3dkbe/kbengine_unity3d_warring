@@ -40,7 +40,7 @@ http://www.kbengine.org
 	生成服务端寻路数据(默认已经创建，可以跳过这一步)：
 		先将Assets\Plugins\cai-nmgen-rcn(generate navmesh).zip解压放当前目录下并重启unity3d编辑器, 然后执行如下步骤:
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->NavmeshBuild->Build & Bake, 等待生成完成之后
-			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\demo\res\spaces\xinshoucun中
+			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\kbengine_demos_assets\res\spaces\xinshoucun中
 		(注意: 生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。)
 		(如果有更多问题请咨询插件作者: http://www.critterai.org/projects/cainav/)
 
