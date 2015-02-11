@@ -40,7 +40,12 @@ http://www.kbengine.org
 		        服务端资产库下载：
 		            https://github.com/kbengine/kbengine_demos_assets/releases/latest
 		            下载后请将其解压缩,并将目录文件放置于服务端引擎根目录"kbengine/"之下，如下图：
+
+	3. 拷贝服务端资产库"kbengine_demos_assets"到服务端引擎根目录"kbengine/"之下，如下图：
 ![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_copy_kbengine.jpg)
+
+
+##配置Demo(可选):
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
@@ -55,9 +60,6 @@ http://www.kbengine.org
 			unity3d资源浏览器中选中(非菜单): Assets->Nav_build->xinshoucun->CAIBakedNavmesh->Save, 将其中srv_xxx.navmesh放到服务端kbengine\kbengine_demos_assets\res\spaces\xinshoucun中
 		(注意: 生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。)
 		(如果有更多问题请咨询插件作者: http://www.critterai.org/projects/cainav/)
-
-
-##配置Demo(可选):
 
 	改变登录IP地址与端口（注意：关于服务端端口部分参看http://www.kbengine.org/cn/docs/installation.html）:
 ![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_configure.jpg)
