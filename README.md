@@ -1,7 +1,7 @@
 kbengine_unity3d_warring
 =============
 
-##本项目作为kbengine服务端引擎的客户端演示而写
+##本项目作为KBEngine服务端引擎的客户端演示而写
 http://www.kbengine.org
 
 ## QQ交流群
@@ -10,7 +10,7 @@ http://www.kbengine.org
 
 
 ##GO!
-	下载kbengine客户端插件与服务端Demo资产库:
+	下载KBEngine客户端插件与服务端Demo资产库:
 
 		* 使用git命令行，进入到kbengine_unity3d_warring目录执行：
 
@@ -99,7 +99,7 @@ http://www.kbengine.org
 			- Unity3d.unity3d (在unity3d编译时生成的文件)
 			- Unity3d.html (在unity3d编译时生成的文件)
 
-	1. 启动kbengine服务端
+	1. 启动KBEngine服务端
 	http://www.kbengine.org/docs/installation.html
 
 	2. 浏览器访问localhost
