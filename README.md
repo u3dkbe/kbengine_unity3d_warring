@@ -10,7 +10,18 @@ http://www.kbengine.org
 
 
 ##GO!
-	下载KBEngine客户端插件与服务端Demo资产库:
+
+	1. 确保已经下载过KBEngine服务端引擎，如果没有下载请先下载
+		下载服务端源码(KBEngine)：
+			https://github.com/kbengine/kbengine/releases/latest
+
+		编译(KBEngine)：
+			http://www.kbengine.org/docs/build.html
+
+		安装(KBEngine)：
+			http://www.kbengine.org/docs/installation.html
+
+	2. 下载KBEngine客户端插件与服务端Demo资产库:
 
 		* 使用git命令行，进入到kbengine_unity3d_warring目录执行：
 
@@ -20,15 +31,16 @@ http://www.kbengine.org
 		* 或者使用 TortoiseGit(选择菜单): TortoiseGit -> Submodule Update:
 ![submodule_update2](http://www.kbengine.org/assets/img/screenshots/unity3d_plugins_submodule_update.jpg)
 
-		* 也可以手动下载kbengine插件与服务端Demo资产库
+                * 也可以手动下载kbengine客户端插件与服务端Demo资产库
 
-			插件下载：
-				https://github.com/kbengine/kbengine_unity3d_plugins/archive/master.zip
-				下载后请将其解压缩,插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
+		        客户端插件下载：
+		            https://github.com/kbengine/kbengine_unity3d_plugins/archive/master.zip
+		            下载后请将其解压缩，插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
 
-			服务端资产库下载：
-				https://github.com/kbengine/kbengine_demos_assets/releases/latest
-				下载后请将其解压缩,并将目录文件放置于服务端引擎根目录"kbengine/"之下
+		        服务端资产库下载：
+		            https://github.com/kbengine/kbengine_demos_assets/releases/latest
+		            下载后请将其解压缩,并将目录文件放置于服务端引擎根目录"kbengine/"之下，如下图：
+![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_copy_kbengine.jpg)
 
 	创建AssetBundles(默认已经创建，可以跳过这一步)：
 		unity3d(菜单上)->Publish->Build Publish AssetBundles(打包所有需要动态加载资源)
@@ -44,45 +56,38 @@ http://www.kbengine.org
 		(注意: 生成完毕后建议删除cai-nmgen-rcn(generate navmesh).zip解压出来的文件，会造成无法导出游戏的错误，原因未知。)
 		(如果有更多问题请咨询插件作者: http://www.critterai.org/projects/cainav/)
 
-	配置登录IP地址(如果服务端在本机则无需改变):
-		kbengine_unity3d_warring\Assets\scripts\go\clientapp.cs -> ip
-		kbengine_unity3d_warring\Assets\scripts\go\clientapp.cs -> port
+
+##配置Demo(可选):
+
+	改变登录IP地址与端口（注意：关于服务端端口部分参看http://www.kbengine.org/cn/docs/installation.html）:
 ![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_configure.jpg)
 
+		kbengine_unity3d_warring\Scripts\kbe_scripts\clientapp.cs -> ip
+		kbengine_unity3d_warring\Scripts\kbe_scripts\clientapp.cs -> port
 
-##安装服务端:
-	下载服务端源码:
-		https://github.com/kbengine/kbengine/releases/latest
+##启动服务器:
 
-	将服务端资产库拷贝到服务端引擎根目录下:
-		"kbengine_unity3d_demo\kbengine_demos_assets" -> "kbengine\"
+	先开启服务端
+		Windows:
+			kbengine\kbengine_demos_assets\start_server.bat
 
-![demo_configure](http://www.kbengine.org/assets/img/screenshots/demo_copy_kbengine.jpg)
+		Linux:
+			kbengine\kbengine_demos_assets\start_server.sh
 
-	编译与安装:
-		http://www.kbengine.org/cn/docs/build.html
-		http://www.kbengine.org/cn/docs/installation.html
-
-	测试是否可运行:
-		先开启服务端
-			Windows:
-				kbengine\kbengine_demos_assets\start_server_fixed.bat
-
-			Linux:
-				kbengine\kbengine_demos_assets\start_server_fixed.sh
-
-		检查启动状态:
-				如果启动成功将会在日志中找到"Components::process(): Found all the components!"。
-				任何其他情况请在日志中搜索"ERROR"关键字，根据错误描述尝试解决。
-				(More: http://www.kbengine.org/cn/docs/startup_shutdown.html)
-
-		unity3d中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
+	检查启动状态:
+		如果启动成功将会在日志中找到"Components::process(): Found all the components!"。
+		任何其他情况请在日志中搜索"ERROR"关键字，根据错误描述尝试解决。
+		(More: http://www.kbengine.org/cn/docs/startup_shutdown.html)
 
 ##导出WebPlayer项目:
 
 	Unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
 	选择Web Player->Build。 
 
+
+##在Unity3D编辑器运行游戏
+	
+	Unity3D中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
 
 ##在浏览器运行游戏:
 
@@ -99,10 +104,8 @@ http://www.kbengine.org
 			- Unity3d.unity3d (在unity3d编译时生成的文件)
 			- Unity3d.html (在unity3d编译时生成的文件)
 
-	1. 启动KBEngine服务端
-	http://www.kbengine.org/docs/installation.html
 
-	2. 浏览器访问localhost
+	浏览器访问localhost
 	如不清楚请下载编译打包好的demo，并按照其中的文件夹结构放置并看压缩包内文档教程如何启动:
 	https://sourceforge.net/projects/kbengine/files/
 
