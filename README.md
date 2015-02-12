@@ -4,9 +4,14 @@ kbengine_unity3d_warring
 ##本项目作为KBEngine服务端引擎的客户端演示而写
 http://www.kbengine.org
 
-## QQ交流群
-	群1: 16535321 
-	群2: 367555003
+##官方论坛
+
+	http://bbs.kbengine.org
+
+
+##QQ交流群
+
+	16535321 
 
 
 ##GO!
