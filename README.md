@@ -1,7 +1,7 @@
 kbengine_unity3d_warring
 =============
 
-##本项目作为KBEngine服务端引擎的客户端演示而写
+##本项目作为KBEngine服务端引擎的客户端演示而写，适用于Unity4.x
 http://www.kbengine.org
 
 ##官方论坛
