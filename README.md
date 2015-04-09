@@ -88,13 +88,13 @@ http://www.kbengine.org
 
 ##导出WebPlayer项目:
 
-	Unity3d File->Build Settings->Scenes In Build选择scenes/go.unity->Platform
+	Unity3d File->Build Settings->Scenes In Build选择scenes/start.unity->Platform
 	选择Web Player->Build。 
 
 
 ##在Unity3D编辑器运行游戏
 	
-	Unity3D中选择Assets\scenes\go场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
+	Unity3D中选择Assets\scenes\start场景然后点击编辑器运行按钮，如果无意外应该可以登录游戏进入到场景中了。
 
 ##在浏览器运行游戏:
 
