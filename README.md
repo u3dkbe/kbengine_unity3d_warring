@@ -39,7 +39,7 @@ http://www.kbengine.org
                 * 也可以手动下载kbengine客户端插件与服务端Demo资产库
 
 		        客户端插件下载：
-		            https://github.com/kbengine/kbengine_unity3d_plugins/archive/master.zip
+		            https://github.com/kbengine/kbengine_unity3d_plugins/releases/latest
 		            下载后请将其解压缩，插件源码请放置在: Assets/plugins/kbengine/kbengine_unity3d_plugins
 
 		        服务端资产库下载：
