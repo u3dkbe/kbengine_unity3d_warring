@@ -14,6 +14,11 @@ http://www.kbengine.org
 	16535321 
 
 
+##KBE插件文档
+
+	https://github.com/kbengine/kbengine_unity3d_plugins/blob/master/README.md
+
+
 ##GO!
 
 	1. 确保已经下载过KBEngine服务端引擎，如果没有下载请先下载
