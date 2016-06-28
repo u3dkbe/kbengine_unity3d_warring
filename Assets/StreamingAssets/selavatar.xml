@@ -1,5 +1,5 @@
 <root name="Assets\scenes\selavatar\selavatar.unity">
-  <gameObject name="renderSettings" fog="true" fogMode="1" fogDensity="0.003" fogStartDistance="10" fogEndDistance="500" fogColor_r="0.4669749" fogColor_g="0.4767209" fogColor_b="0.4850746" fogColor_a="1" ambientLight_r="0.4280463" ambientLight_g="0.4552239" ambientLight_b="0.4552239" ambientLight_a="1" haloStrength="0.5" flareStrength="1" skybox="" />
+  <gameObject name="renderSettings" fog="true" fogMode="1" fogDensity="0.003" fogStartDistance="10" fogEndDistance="500" fogColor_r="0.4669749" fogColor_g="0.4767209" fogColor_b="0.4850746" fogColor_a="1" ambientLight_r="0.4280463" ambientLight_g="0.4552239" ambientLight_b="0.4552239" ambientLight_a="1" haloStrength="0.5" flareStrength="1" skybox="gray_box.unity3d" />
   <gameObject name="world" wname="selavatar" />
   <gameObject name="Mountain10" id="9" layer="Default" loadPri="99" load="1" unload="0" asset="Mountain10.unity3d">
     <transform>
@@ -280,9 +280,9 @@
         <z>0</z>
       </rotation>
       <scale>
-        <x>0.003490401</x>
-        <y>0.003490401</y>
-        <z>0.003490401</z>
+        <x>0.004166667</x>
+        <y>0.004166667</y>
+        <z>0.004166667</z>
       </scale>
     </transform>
   </gameObject>
@@ -305,26 +305,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="box" id="28" layer="Default" loadPri="99" load="1" unload="0" asset="box.unity3d">
-    <transform>
-      <position>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-      </position>
-      <rotation>
-        <x>0</x>
-        <y>0</y>
-        <z>0</z>
-      </rotation>
-      <scale>
-        <x>71.53228</x>
-        <y>71.53228</y>
-        <z>71.53228</z>
-      </scale>
-    </transform>
-  </gameObject>
-  <gameObject name="wpgroups" id="29" layer="Default" loadPri="1" load="3" unload="1" asset="avatar_wpgroup.unity3d">
+  <gameObject name="wpgroups" id="28" layer="Default" loadPri="1" load="3" unload="1" asset="avatar_wpgroup.unity3d">
     <transform>
       <position>
         <x>-159.4792</x>
@@ -343,7 +324,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="WindZone" id="31" layer="Default" loadPri="99" load="0" unload="0" asset="streaming_selavatar_WindZone.30.unity3d">
+  <gameObject name="WindZone" id="30" layer="Default" loadPri="99" load="0" unload="0" asset="streaming_selavatar_WindZone.29.unity3d">
     <transform>
       <position>
         <x>0</x>
@@ -362,7 +343,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="Directional light" id="33" layer="Default" loadPri="99" load="1" unload="0" asset="streaming_selavatar_Directional_light.32.unity3d">
+  <gameObject name="Directional light" id="32" layer="Default" loadPri="99" load="1" unload="0" asset="streaming_selavatar_Directional_light.31.unity3d">
     <transform>
       <position>
         <x>6.640692</x>
@@ -381,7 +362,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="avatar1" id="34" layer="Default" loadPri="99" load="3" unload="1" asset="avatar1.unity3d">
+  <gameObject name="avatar1" id="33" layer="Default" loadPri="99" load="3" unload="1" asset="avatar1.unity3d">
     <transform>
       <position>
         <x>-52.84608</x>
@@ -400,7 +381,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="avatar4" id="35" layer="Default" loadPri="99" load="3" unload="1" asset="avatar4.unity3d">
+  <gameObject name="avatar4" id="34" layer="Default" loadPri="99" load="3" unload="1" asset="avatar4.unity3d">
     <transform>
       <position>
         <x>-52.84608</x>
@@ -419,7 +400,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="Mountain10" id="36" layer="Default" loadPri="99" load="1" unload="0" asset="Mountain10.unity3d">
+  <gameObject name="Mountain10" id="35" layer="Default" loadPri="99" load="1" unload="0" asset="Mountain10.unity3d">
     <transform>
       <position>
         <x>38.66455</x>
@@ -438,7 +419,7 @@
       </scale>
     </transform>
   </gameObject>
-  <gameObject name="Mountain10" id="37" layer="Default" loadPri="99" load="1" unload="0" asset="Mountain10.unity3d">
+  <gameObject name="Mountain10" id="36" layer="Default" loadPri="99" load="1" unload="0" asset="Mountain10.unity3d">
     <transform>
       <position>
         <x>243.0087</x>
