@@ -373,7 +373,7 @@ namespace KBEngine
 			Property pAvatar_component1 = new Property();
 			pAvatar_component1.name = "component1";
 			pAvatar_component1.properUtype = 16;
-			pAvatar_component1.properFlags = 255;
+			pAvatar_component1.properFlags = 253;
 			pAvatar_component1.aliasID = 8;
 			pAvatarModule.propertys["component1"] = pAvatar_component1; 
 
@@ -385,7 +385,7 @@ namespace KBEngine
 			Property pAvatar_component2 = new Property();
 			pAvatar_component2.name = "component2";
 			pAvatar_component2.properUtype = 21;
-			pAvatar_component2.properFlags = 255;
+			pAvatar_component2.properFlags = 97;
 			pAvatar_component2.aliasID = 9;
 			pAvatarModule.propertys["component2"] = pAvatar_component2; 
 
@@ -397,7 +397,7 @@ namespace KBEngine
 			Property pAvatar_component3 = new Property();
 			pAvatar_component3.name = "component3";
 			pAvatar_component3.properUtype = 22;
-			pAvatar_component3.properFlags = 159;
+			pAvatar_component3.properFlags = 157;
 			pAvatar_component3.aliasID = 10;
 			pAvatarModule.propertys["component3"] = pAvatar_component3; 
 
@@ -1434,6 +1434,7 @@ namespace KBEngine
 
 			//Dbg.DEBUG_MSG("EntityDef::initScriptModules: add(NPC), property(utype / 41005).");
 
+			pNPCModule.useMethodDescrAlias = true;
 			ScriptModule pGateModule = new ScriptModule("Gate");
 			EntityDef.moduledefs["Gate"] = pGateModule;
 			EntityDef.idmoduledefs[7] = pGateModule;
@@ -1570,6 +1571,7 @@ namespace KBEngine
 
 			//Dbg.DEBUG_MSG("EntityDef::initScriptModules: add(Gate), property(utype / 41005).");
 
+			pGateModule.useMethodDescrAlias = true;
 		}
 
 		public static void initDefTypes()
