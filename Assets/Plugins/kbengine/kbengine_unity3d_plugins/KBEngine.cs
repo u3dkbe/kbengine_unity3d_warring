@@ -88,7 +88,7 @@
 		
 		// 服务端与客户端的版本号以及协议MD5
 		public string serverVersion = "";
-		public string clientVersion = "2.4.5";
+		public string clientVersion = "2.5.1";
 		public string serverScriptVersion = "";
 		public string clientScriptVersion = "0.1.0";
 		public string serverProtocolMD5 = "ACE55A2934030C0DA3446BA0E5FAB5DD";
@@ -893,7 +893,7 @@
 			UInt16 failedcode = stream.readUint16();
 			_serverdatas = stream.readBlob();
 			Dbg.ERROR_MSG("KBEngine::Client_onLoginFailed: failedcode(" + failedcode + ":" + serverErr(failedcode) + "), datas(" + _serverdatas.Length + ")!");
-			Event.fireAll(EventOutTypes.onLoginFailed, failedcode);
+			Event.fireAll(EventOutTypes.onLoginFailed, failedcode, _serverdatas);
 		}
 		
 		/*
@@ -2255,19 +2255,19 @@
 			if(roll != KBEMath.KBE_FLT_MAX)
 			{
 				changeDirection = true;
-				entity.direction.x = KBEMath.int82angle((SByte)roll, false) * 360 / ((float)System.Math.PI * 2);
+				entity.direction.x = isOptimized ? KBEMath.int82angle((SByte)roll, false) * 360 / ((float)System.Math.PI * 2) : roll;
 			}
 
 			if(pitch != KBEMath.KBE_FLT_MAX)
 			{
 				changeDirection = true;
-				entity.direction.y = KBEMath.int82angle((SByte)pitch, false) * 360 / ((float)System.Math.PI * 2);
+				entity.direction.y = isOptimized ? KBEMath.int82angle((SByte)pitch, false) * 360 / ((float)System.Math.PI * 2) : pitch;
 			}
 			
 			if(yaw != KBEMath.KBE_FLT_MAX)
 			{
 				changeDirection = true;
-				entity.direction.z = KBEMath.int82angle((SByte)yaw, false) * 360 / ((float)System.Math.PI * 2);
+				entity.direction.z = isOptimized ? KBEMath.int82angle((SByte)yaw, false) * 360 / ((float)System.Math.PI * 2) : yaw;
 			}
 			
 			bool done = false;
@@ -2278,9 +2278,9 @@
 			}
 			
 			bool positionChanged = x != KBEMath.KBE_FLT_MAX || y != KBEMath.KBE_FLT_MAX || z != KBEMath.KBE_FLT_MAX;
-			if (x == KBEMath.KBE_FLT_MAX) x = 0.0f;
-			if (y == KBEMath.KBE_FLT_MAX) y = 0.0f;
-			if (z == KBEMath.KBE_FLT_MAX) z = 0.0f;
+			if (x == KBEMath.KBE_FLT_MAX) x = isOptimized ? 0.0f : entity.position.x;
+			if (y == KBEMath.KBE_FLT_MAX) y = isOptimized ? 0.0f : entity.position.y;
+			if (z == KBEMath.KBE_FLT_MAX) z = isOptimized ? 0.0f : entity.position.z;
 			
 			if(positionChanged)
 			{

@@ -15,6 +15,7 @@ namespace KBEngine
 		public UInt16 componentType = 0;
 		public Int32 ownerID = 0;
 		public Entity owner = null;
+		public string name_ = "";
 
 		public virtual void onAttached(Entity ownerEntity)
 		{
@@ -34,11 +35,26 @@ namespace KBEngine
 		{
 		}
 
-        public virtual ScriptModule getScriptModule()
-        {
+		public virtual void onGetBase()
+		{
 			// 动态生成
-            return null;
-        }
+		}
+
+		public virtual void onGetCell()
+		{
+			// 动态生成
+		}
+
+		public virtual void onLoseCell()
+		{
+			// 动态生成
+		}
+
+		public virtual ScriptModule getScriptModule()
+		{
+			// 动态生成
+			return null;
+		}
 
 		public virtual void onRemoteMethodCall(UInt16 methodUtype, MemoryStream stream)
 		{
